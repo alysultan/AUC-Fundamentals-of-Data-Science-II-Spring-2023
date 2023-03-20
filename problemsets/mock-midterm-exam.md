@@ -14,9 +14,14 @@ a) Data
 
 b) Science
 
-c) Data Science
+c) DataScience
 
 d) None of the above
+
+<details>
+    <summary>Answer</summary>
+    d)
+</details>
 
 2. Which of the following is NOT a valid variable name in Python?
 
@@ -27,6 +32,11 @@ b) `123_data_science`
 c) `_data_science`
 
 d) `dataScience`
+
+<details>
+    <summary>Answer</summary>
+    b)
+</details>
 
 3. What does the following code print?
 
@@ -43,6 +53,11 @@ c) `[3, 4]`
 
 d) `[2, 3, 4]`
 
+<details>
+    <summary>Answer</summary>
+    b)
+</details>
+
 4. Which of the following is a valid way to define a dictionary in Python?
 
 a) `{1: 'one', 2: 'two'}`
@@ -53,13 +68,17 @@ c) `(1: 'one', 2: 'two')`
 
 d) `[1: 'one', 2: 'two']`
 
+<details>
+    <summary>Answer</summary>
+    a)
+</details>
 
 5. What does the following code print?
 
 ```python
 x = [1, 2, 3, 4]
 for i in x:
-    print(i)
+    print(i, end = " ")
 ```
 
 a) `1 2 3 4`
@@ -70,12 +89,17 @@ c) `1234`
 
 d) None of the above
 
+<details>
+    <summary>Answer</summary>
+    a)
+</details>
+
 6. What is the output of the following code?
 
 ```python
 x = 5
 while x > 0:
-    print(x)
+    print(x, end = " ")
     x -= 1
 ```
 
@@ -86,6 +110,11 @@ b) `5 4 3 2 1`
 c) `5`
 
 d) None of the above
+
+<details>
+    <summary>Answer</summary>
+    b)
+</details>
 
 7. What is the output of the following code?
 
@@ -108,6 +137,10 @@ c) `15`
 
 d) `120`
 
+<details>
+    <summary>Answer</summary>
+    d)
+</details>
 
 8. What does the following code print?
 
@@ -123,6 +156,11 @@ b) `["Hello", " World!"]`
 c) `["Hello,", " World!"]`
 
 d) None of the above
+
+<details>
+    <summary>Answer</summary>
+    b)
+</details>
 
 9. What is the output of the following code?
 
@@ -141,6 +179,11 @@ c) `[(1, 4), (2, 5), (3, 6)]`
 
 d) None of the above
 
+<details>
+    <summary>Answer</summary>
+    a)
+</details>
+
 10. What is the output of the following code?
 
 ```python
@@ -158,6 +201,11 @@ c) `{"a": 1, "c": 3}, {"b": 2}`
 
 d) None of the above
 
+<details>
+    <summary>Answer</summary>
+    a)
+</details>
+
 11. What is the output of the following code?
 ```python
 x = "hello"
@@ -172,6 +220,11 @@ b) "HELLX"
 c) "hello"
 
 d) None of the above
+
+<details>
+    <summary>Answer</summary>
+    b)
+</details>
 
 12. What is the output of the following code?
 
@@ -190,6 +243,11 @@ b) `3`
 c) `5`
 
 d) None of the above
+
+<details>
+    <summary>Answer</summary>
+    b)
+</details>
 
 13. What is the output of the following code?
 
@@ -215,9 +273,48 @@ c) `([1, 2, 3], 5), [2, 2, 3], 4`
 
 d) None of the above
 
+<details>
+    <summary>Answer</summary>
+    a)
+</details>
+
 
 ## Coding Questions:
 
 1. Write a Python function called "even_numbers" that takes a list of integers as input and returns a list of only the even numbers in the input list. Example input: `[1, 2, 3, 4, 5, 6]`, Example output: `[2, 4, 6]`
 
+<details>
+    <summary>Answer</summary>
+
+```python
+def even_numbers(numbers):
+  even_list = []
+  for num in numbers:
+    if num % 2 == 0:
+      even_list.append(num)
+  return even_list
+```
+
+One line version:
+
+```python
+def even_numbers(numbers):
+  return [num for num in numbers if num % 2 == 0]
+```
+    
+</details>
+
 2. Write a *recursive* Python function called `fibonacci` that takes an integer `n` as input and returns the `n`th number in the Fibonacci sequence. The first two numbers in the Fibonacci sequence are `0` and `1`, and each subsequent number is the sum of the two previous numbers. Example input: `6`, Example output: `8`
+
+<details>
+    <summary>Answer</summary>
+
+```python
+def fibonacci(n):
+  if n == 0 or n == 1:
+    return n
+  else:
+    return fibonacci(n-1) + fibonacci(n-2)
+```
+
+</details>
