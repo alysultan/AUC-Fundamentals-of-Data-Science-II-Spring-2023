@@ -1,4 +1,4 @@
-# Data Science II Term Project
+# DSCI1412 Spring2023 Project
 ## Project Overview
 Your task for this project is to select a public dataset and conduct a comprehensive data analysis based on your own formulated questions. This assignment encourages your critical thinking and creativity to generate data analysis questions and hypotheses. Your analysis should encompass numerical (quantitative), graphical (visual), and statistical methods, as appropriate.
 ## Guidelines for the Project
