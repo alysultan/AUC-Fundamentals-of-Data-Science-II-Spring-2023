@@ -1,0 +1,101 @@
+RestaurantID,Rating,PriceRange,Cuisine,Location,Atmosphere,MenuItem,DeliveryService,WaitTime,Reservation
+1,3.6,$$,Chinese,Downtown,Family,Dumplings,0,2,1
+2,2.1,$$$,Indian,Uptown,Family,Dumplings,1,29,0
+3,3.7,$$,American,Downtown,Family,Tacos,0,3,1
+4,4.8,$$,American,Midtown,Fine Dining,Pasta,0,18,0
+5,4.6,$$,Italian,Uptown,Family,Pasta,0,21,0
+6,2.8,$$$,Italian,Midtown,Family,Curry,0,14,0
+7,2.3,$$,Mexican,Uptown,Family,Burgers,0,25,1
+8,3.3,$$,Chinese,Uptown,Romantic,Curry,0,28,0
+9,1.2,$,American,Downtown,Casual,Curry,1,33,1
+10,1.3,$,Italian,Uptown,Family,Curry,0,16,0
+11,2.6,$$,Mexican,Downtown,Casual,Burgers,0,15,0
+12,3.3,$$$,Italian,Midtown,Family,Dumplings,0,22,0
+13,3.0,$,American,Downtown,Fine Dining,Pasta,0,17,1
+14,2.1,$$,Mexican,Downtown,Family,Dumplings,0,12,0
+15,4.3,$$,Italian,Midtown,Casual,Curry,0,17,1
+16,3.2,$,Mexican,Downtown,Family,Tacos,0,37,1
+17,4.1,$$$,Chinese,Uptown,Family,Curry,0,30,0
+18,1.5,$$$,Indian,Downtown,Romantic,Tacos,0,10,1
+19,2.6,$$,American,Downtown,Romantic,Curry,1,14,1
+20,2.6,$$$,Mexican,Uptown,Fine Dining,Tacos,0,25,0
+21,1.5,$$$,Italian,Uptown,Fine Dining,Curry,1,21,0
+22,1.9,$$$,Chinese,Midtown,Family,Pasta,0,9,1
+23,2.7,$,Indian,Uptown,Romantic,Curry,0,31,1
+24,3.3,$$$,American,Downtown,Casual,Dumplings,1,15,1
+25,3.6,$$$,Mexican,Downtown,Romantic,Tacos,0,21,1
+26,2.1,$$,Indian,Downtown,Fine Dining,Pasta,1,33,0
+27,2.2,$$$,Indian,Downtown,Romantic,Tacos,0,15,0
+28,1.6,$$,Italian,Midtown,Romantic,Dumplings,0,39,0
+29,3.4,$,Italian,Downtown,Romantic,Pasta,1,-2,1
+30,1.7,$,Chinese,Midtown,Family,Burgers,0,25,1
+31,1.5,$$,Italian,Midtown,Romantic,Dumplings,1,4,0
+32,3.7,$$,Indian,Uptown,Romantic,Burgers,0,16,1
+33,4.3,$$$,Italian,Uptown,Fine Dining,Tacos,1,34,1
+34,4.2,$$,Italian,Midtown,Casual,Burgers,1,20,1
+35,2.6,$$,Italian,Downtown,Casual,Tacos,1,5,1
+36,3.2,$$,Mexican,Uptown,Family,Pasta,1,16,0
+37,1.4,$$$,Indian,Downtown,Fine Dining,Curry,0,17,0
+38,3.0,$$,American,Uptown,Casual,Tacos,1,22,0
+39,1.6,$$$,American,Uptown,Family,Dumplings,1,11,1
+40,3.8,$$,Mexican,Uptown,Family,Curry,0,14,0
+41,4.6,$$,American,Uptown,Fine Dining,Curry,0,24,1
+42,2.4,$,American,Midtown,Family,Tacos,0,14,0
+43,1.2,$$$,American,Midtown,Casual,Burgers,0,13,1
+44,4.5,$$,Indian,Downtown,Family,Tacos,0,29,1
+45,2.0,$$$,Mexican,Midtown,Romantic,Dumplings,0,10,0
+46,5.0,$$,American,Uptown,Romantic,Dumplings,1,14,0
+47,3.0,$$$,Mexican,Downtown,Casual,Dumplings,0,-2,1
+48,3.8,$,American,Midtown,Family,Dumplings,0,25,0
+49,3.2,$$$,Chinese,Uptown,Casual,Burgers,1,2,1
+50,2.7,$$$,Indian,Midtown,Family,Burgers,0,35,0
+51,3.4,$,American,Uptown,Fine Dining,Dumplings,0,21,1
+52,1.9,$$,Italian,Uptown,Casual,Tacos,0,32,1
+53,2.9,$$,Indian,Midtown,Romantic,Dumplings,0,17,0
+54,1.4,$,Mexican,Midtown,Casual,Curry,0,12,0
+55,1.1,$,Mexican,Uptown,Casual,Curry,1,18,1
+56,2.0,$$$,Italian,Downtown,Family,Curry,0,16,0
+57,1.6,$$,Italian,Midtown,Fine Dining,Curry,0,17,0
+58,1.1,$$,Indian,Uptown,Family,Pasta,0,32,0
+59,2.1,$,Italian,Downtown,Fine Dining,Curry,0,8,0
+60,2.2,$,Indian,Uptown,Family,Curry,0,14,1
+61,1.6,$$,Chinese,Uptown,Family,Burgers,1,19,0
+62,3.7,$,American,Downtown,Family,Tacos,0,38,1
+63,3.9,$$$,Chinese,Downtown,Fine Dining,Tacos,0,39,1
+64,4.7,$$,Chinese,Uptown,Casual,Dumplings,1,0,0
+65,1.5,$$$,Indian,Uptown,Romantic,Dumplings,0,24,0
+66,1.2,$,Mexican,Midtown,Casual,Curry,0,8,1
+67,4.6,$$,Chinese,Midtown,Romantic,Burgers,0,18,1
+68,4.8,$,Italian,Uptown,Casual,Tacos,0,25,1
+69,4.3,$,American,Downtown,Fine Dining,Tacos,0,23,0
+70,1.5,$$$,Indian,Downtown,Romantic,Curry,0,16,0
+71,2.9,$,Indian,Uptown,Romantic,Pasta,0,33,0
+72,4.2,$$$,Indian,Downtown,Casual,Curry,0,18,1
+73,3.6,$,Indian,Uptown,Romantic,Dumplings,1,13,0
+74,2.2,$,Italian,Midtown,Casual,Burgers,0,20,1
+75,3.6,$,American,Uptown,Fine Dining,Pasta,0,19,0
+76,1.0,$$$,Mexican,Midtown,Casual,Tacos,0,6,0
+77,1.7,$,Chinese,Uptown,Romantic,Burgers,0,11,0
+78,4.7,$,Chinese,Downtown,Casual,Curry,1,10,1
+79,3.1,$$$,Indian,Uptown,Romantic,Dumplings,0,12,0
+80,4.9,$$,Indian,Uptown,Family,Burgers,1,18,1
+81,3.3,$$,Italian,Midtown,Family,Curry,0,23,1
+82,4.2,$,Italian,Uptown,Romantic,Pasta,1,11,0
+83,4.0,$,Italian,Downtown,Casual,Curry,1,35,1
+84,3.4,$$$,Indian,Uptown,Romantic,Curry,1,19,1
+85,1.3,$,Chinese,Uptown,Fine Dining,Curry,0,14,1
+86,3.6,$,American,Downtown,Casual,Dumplings,0,29,1
+87,3.0,$$$,Indian,Downtown,Romantic,Dumplings,0,24,1
+88,4.3,$$,Italian,Downtown,Fine Dining,Tacos,0,33,0
+89,5.0,$$$,American,Uptown,Casual,Pasta,0,9,1
+90,4.1,$,American,Uptown,Casual,Pasta,0,26,0
+91,3.4,$,Chinese,Midtown,Casual,Pasta,0,21,1
+92,4.3,$$,American,Downtown,Casual,Tacos,0,28,1
+93,2.7,$$,Mexican,Midtown,Family,Tacos,0,3,1
+94,1.7,$,Mexican,Downtown,Fine Dining,Dumplings,1,34,0
+95,3.8,$$,Mexican,Uptown,Fine Dining,Pasta,0,-3,1
+96,3.6,$$,American,Downtown,Fine Dining,Tacos,0,28,1
+97,3.5,$$,Chinese,Uptown,Casual,Pasta,1,25,1
+98,3.9,$$$,Mexican,Midtown,Fine Dining,Burgers,1,33,1
+99,3.4,$$$,Indian,Uptown,Casual,Dumplings,0,30,1
+100,1.2,$$,Chinese,Downtown,Fine Dining,Burgers,0,27,1

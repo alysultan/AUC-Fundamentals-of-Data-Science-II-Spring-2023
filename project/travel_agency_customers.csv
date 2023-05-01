@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Country,TravelFrequency,PreferredDestination,TripDuration,TripCost,TravelClass,BookingMethod,Review
+1,28,Male,Sierra Leone,0,Destination1,6,409,Economy,Agency,1.9
+2,69,Male,Kyrgyz Republic,3,Destination2,5,1813,Economy,Online,3.7
+3,60,Female,Venezuela,3,Destination1,9,612,Business,Online,3.8
+4,69,Female,Venezuela,4,Destination2,5,956,Economy,Online,5.0
+5,59,Female,United Kingdom,1,Destination2,4,355,Economy,Online,1.5
+6,67,Male,Cayman Islands,2,Destination3,8,790,Economy,Agency,2.6
+7,19,Male,Chile,1,Destination1,5,890,Economy,Online,1.7
+8,32,Male,Serbia,1,Destination3,6,836,Economy,Online,3.9
+9,38,Female,Thailand,0,Destination3,3,1708,Economy,Online,2.7
+10,54,Female,Indonesia,1,Destination4,8,5,Economy,Online,4.4
+11,53,Female,British Indian Ocean Territory (Chagos Archipelago),0,Destination3,7,936,Economy,Online,2.4
+12,26,Male,Timor-Leste,1,Destination2,7,1539,Economy,Online,3.3
+13,30,Female,Rwanda,2,Destination2,6,625,Economy,Online,4.4
+14,56,Male,Belgium,4,Destination1,11,446,Economy,Online,4.9
+15,33,Male,Lebanon,2,Destination3,12,1811,Economy,Online,3.6
+16,52,Male,Grenada,0,Destination1,5,1182,Economy,Online,2.6
+17,69,Male,Ethiopia,2,Destination2,4,6,Economy,Online,3.2
+18,18,Female,United Arab Emirates,1,Destination1,8,437,Economy,Online,3.8
+19,41,Male,Botswana,1,Destination2,12,2010,Economy,Online,1.2
+20,36,Female,Faroe Islands,4,Destination3,11,600,Business,Agency,4.9
+21,40,Male,Ukraine,0,Destination2,10,1051,Business,Agency,2.2
+22,44,Female,Cape Verde,1,Destination4,2,1544,Business,Online,2.8
+23,34,Female,Saint Lucia,3,Destination3,7,740,Economy,Online,4.5
+24,45,Male,Chile,1,Destination2,10,392,Economy,Online,2.6
+25,60,Female,Belize,2,Destination4,5,54,Economy,Online,4.6
+26,19,Female,Mexico,1,Destination3,9,1067,Economy,Online,2.2
+27,41,Male,Lesotho,2,Destination1,5,777,Economy,Online,2.6
+28,56,Female,Svalbard & Jan Mayen Islands,3,Destination1,7,641,Economy,Online,4.0
+29,56,Female,Sweden,3,Destination2,1,499,Business,Online,4.5
+30,34,Female,Liechtenstein,2,Destination4,7,1044,Economy,Online,4.4
+31,48,Female,Yemen,1,Destination1,9,931,Economy,Online,1.1
+32,64,Male,New Caledonia,4,Destination1,5,1656,Business,Online,4.1
+33,53,Female,Barbados,3,Destination3,10,545,Economy,Online,1.4
+34,60,Male,Croatia,1,Destination2,4,1273,Economy,Online,2.8
+35,59,Female,Denmark,2,Destination3,3,810,Economy,Online,3.9
+36,39,Female,Singapore,4,Destination4,7,1151,Economy,Online,2.4
+37,32,Male,Mexico,0,Destination4,8,1105,Economy,Agency,2.8
+38,54,Female,Somalia,3,Destination2,6,1221,Economy,Online,4.8
+39,45,Male,Colombia,4,Destination3,6,816,Economy,Online,3.7
+40,63,Female,Sao Tome and Principe,1,Destination2,12,851,Economy,Online,2.4
+41,34,Male,Aruba,2,Destination3,10,310,Economy,Online,4.2
+42,44,Female,Bahrain,3,Destination1,6,539,Economy,Online,3.1
+43,39,Female,Pakistan,3,Destination2,9,1285,Economy,Online,1.9
+44,43,Female,Moldova,0,Destination1,0,1750,Business,Online,2.5
+45,63,Female,Bulgaria,1,Destination3,4,1633,Economy,Online,2.5
+46,66,Male,Malawi,1,Destination3,7,708,Economy,Online,4.3
+47,41,Female,French Guiana,3,Destination1,5,617,Economy,Online,3.3
+48,40,Male,Cook Islands,2,Destination1,11,966,Business,Online,4.0
+49,19,Male,Comoros,1,Destination1,4,1368,Business,Online,4.1
+50,38,Female,Jordan,2,Destination2,6,884,Economy,Online,4.1
+51,39,Male,Nauru,2,Destination3,5,1159,First,Online,1.5
+52,54,Male,Romania,1,Destination2,7,1780,First,Online,1.2
+53,65,Male,New Zealand,2,Destination1,4,513,Economy,Online,4.1
+54,67,Male,Armenia,2,Destination3,10,1371,Economy,Online,4.0
+55,65,Female,Antarctica (the territory South of 60 deg S),2,Destination2,2,376,Economy,Online,3.2
+56,22,Female,Puerto Rico,4,Destination3,7,1050,Business,Online,2.3
+57,21,Male,Czech Republic,3,Destination4,1,803,First,Agency,3.7
+58,39,Female,Benin,2,Destination2,12,99,Economy,Agency,4.6
+59,52,Male,Netherlands,1,Destination3,6,772,Economy,Online,1.2
+60,34,Male,Swaziland,0,Destination2,2,789,Economy,Online,3.4
+61,51,Female,Taiwan,0,Destination3,5,486,Business,Online,4.0
+62,40,Female,Kuwait,1,Destination3,6,807,Economy,Online,2.8
+63,61,Female,Somalia,4,Destination4,8,1330,Economy,Agency,3.0
+64,18,Female,Bulgaria,3,Destination3,5,949,Business,Online,4.2
+65,24,Male,Turkmenistan,3,Destination3,11,959,Economy,Online,1.6
+66,38,Male,Togo,0,Destination3,6,448,Economy,Online,3.3
+67,31,Female,Samoa,2,Destination4,9,814,Business,Online,3.4
+68,56,Female,Canada,2,Destination1,11,379,Economy,Online,4.2
+69,69,Female,Azerbaijan,0,Destination3,3,119,Economy,Online,4.2
+70,54,Male,Sweden,2,Destination3,9,735,Business,Agency,4.5
+71,22,Female,Martinique,2,Destination3,6,896,Business,Online,4.9
+72,57,Female,Jordan,4,Destination1,8,726,Business,Online,3.7
+73,41,Female,Mozambique,0,Destination4,11,1098,Business,Online,2.4
+74,36,Female,Madagascar,4,Destination4,6,968,Business,Online,3.4
+75,65,Female,Saint Lucia,2,Destination3,6,-160,Economy,Online,1.2
+76,30,Male,Bolivia,2,Destination1,5,1227,Business,Agency,1.1
+77,41,Female,Antigua and Barbuda,2,Destination4,7,525,Economy,Online,1.8
+78,31,Female,United States of America,0,Destination3,11,1154,Business,Agency,2.9
+79,46,Male,Saudi Arabia,1,Destination4,3,-34,Economy,Online,5.0
+80,48,Female,Portugal,1,Destination2,4,1515,Business,Online,2.6
+81,68,Male,Northern Mariana Islands,1,Destination2,4,1035,Economy,Online,2.8
+82,26,Female,Saudi Arabia,4,Destination1,9,855,Economy,Online,4.7
+83,25,Female,Yemen,6,Destination4,5,662,Economy,Online,2.5
+84,68,Male,Liberia,1,Destination1,5,947,Business,Online,3.6
+85,65,Male,Madagascar,1,Destination2,6,1296,Economy,Online,4.9
+86,48,Male,Congo,4,Destination4,8,836,Economy,Online,4.4
+87,29,Male,Jersey,2,Destination1,8,514,Economy,Online,2.9
+88,59,Male,Cambodia,5,Destination4,12,24,First,Agency,4.5
+89,48,Female,Brazil,1,Destination4,9,770,Economy,Online,3.1
+90,43,Male,Ireland,5,Destination2,5,130,Economy,Online,4.9
+91,22,Female,Cape Verde,4,Destination2,2,1146,Business,Online,4.4
+92,59,Male,Mayotte,0,Destination4,8,537,Economy,Online,1.1
+93,22,Male,Macao,4,Destination2,4,2112,Economy,Online,1.9
+94,39,Female,Germany,0,Destination3,8,-325,Business,Online,4.6
+95,18,Male,Malaysia,3,Destination3,3,809,Economy,Online,3.6
+96,31,Male,Palau,2,Destination3,1,1033,Business,Online,3.0
+97,55,Female,Korea,1,Destination1,4,1752,Economy,Online,2.8
+98,20,Male,Pakistan,1,Destination1,6,1260,Economy,Online,3.1
+99,46,Male,Saint Lucia,3,Destination3,2,599,Business,Online,1.5
+100,34,Female,Vanuatu,1,Destination1,6,274,Economy,Online,2.2
+101,35,Male,Luxembourg,0,Destination3,4,762,Economy,Online,4.3
+102,70,Male,Luxembourg,3,Destination4,7,891,Business,Online,2.3
+103,48,Male,Qatar,3,Destination3,8,1139,Economy,Online,4.5
+104,65,Female,Aruba,2,Destination4,9,415,Economy,Agency,2.7
+105,30,Male,Belarus,4,Destination4,7,921,Economy,Online,2.4
+106,35,Female,Slovenia,3,Destination4,8,994,Economy,Online,4.5
+107,55,Male,Cook Islands,2,Destination4,8,1129,First,Online,3.2
+108,25,Female,Guam,4,Destination4,13,739,Business,Online,4.9
+109,30,Male,Uganda,2,Destination4,7,1202,Economy,Agency,1.7
+110,42,Female,Pakistan,2,Destination1,2,1044,First,Online,1.1
+111,26,Male,Gibraltar,0,Destination2,11,1576,Economy,Online,2.2
+112,18,Female,Libyan Arab Jamahiriya,3,Destination2,2,1569,Economy,Online,3.5
+113,56,Male,French Southern Territories,3,Destination2,2,426,Economy,Online,2.5
+114,36,Male,Dominica,0,Destination1,7,1064,Economy,Agency,2.0
+115,39,Male,Rwanda,2,Destination4,3,798,Economy,Online,1.9
+116,43,Male,Singapore,1,Destination3,5,1014,Business,Online,4.2
+117,39,Male,Brunei Darussalam,1,Destination2,9,894,Business,Online,4.3
+118,36,Female,Portugal,5,Destination4,8,1029,Economy,Online,2.9
+119,37,Female,Brunei Darussalam,2,Destination1,10,715,Economy,Online,2.9
+120,47,Male,Uzbekistan,5,Destination2,6,1465,Business,Online,2.7
+121,67,Female,San Marino,2,Destination4,7,1335,Business,Agency,2.0
+122,21,Male,Vanuatu,1,Destination4,4,1259,Economy,Online,1.6
+123,48,Female,Russian Federation,2,Destination1,5,895,Economy,Agency,3.6
+124,21,Male,Barbados,2,Destination3,10,1435,Economy,Online,4.7
+125,57,Male,Luxembourg,1,Destination2,0,642,Business,Agency,4.2
+126,38,Female,Congo,3,Destination1,4,1203,Economy,Online,3.6
+127,69,Male,Honduras,3,Destination4,4,1079,Economy,Online,1.2
+128,24,Male,Andorra,1,Destination3,9,1430,Economy,Online,4.8
+129,60,Female,Nigeria,3,Destination3,10,501,Economy,Online,4.7
+130,40,Male,Mexico,3,Destination2,7,1344,Economy,Agency,3.5
+131,62,Female,Grenada,0,Destination4,9,544,Economy,Online,4.1
+132,62,Female,British Indian Ocean Territory (Chagos Archipelago),1,Destination4,5,833,Economy,Online,3.1
+133,60,Male,Norway,1,Destination2,7,825,Economy,Online,2.6
+134,32,Female,Ukraine,2,Destination4,10,1068,Economy,Online,3.6
+135,63,Male,Belarus,6,Destination3,9,550,Economy,Agency,1.8
+136,66,Female,Maldives,1,Destination1,12,960,First,Online,1.3
+137,58,Male,United States of America,2,Destination2,8,1293,Economy,Agency,1.9
+138,28,Male,Costa Rica,2,Destination1,10,744,Business,Agency,5.0
+139,69,Male,Denmark,3,Destination4,11,877,Economy,Online,3.5
+140,40,Male,Papua New Guinea,6,Destination4,3,471,Economy,Online,1.0
+141,19,Female,Vietnam,0,Destination4,3,-149,Economy,Agency,4.0
+142,48,Male,South Georgia and the South Sandwich Islands,0,Destination1,6,1192,Economy,Online,3.9
+143,63,Male,Azerbaijan,3,Destination4,4,1367,Economy,Agency,1.2
+144,18,Female,Bosnia and Herzegovina,5,Destination3,1,1786,First,Online,2.4
+145,66,Male,Mayotte,1,Destination4,4,239,Economy,Online,1.6
+146,34,Male,Argentina,1,Destination4,9,2188,Economy,Online,1.4
+147,68,Male,Mexico,1,Destination1,7,1138,Business,Online,3.5
+148,36,Female,Pakistan,0,Destination1,6,964,Economy,Online,3.2
+149,22,Female,Oman,3,Destination1,11,852,Economy,Online,4.2
+150,19,Male,Mongolia,2,Destination2,7,827,Economy,Online,2.4
+151,39,Male,Cape Verde,1,Destination2,14,1088,Economy,Online,2.7
+152,19,Female,Iraq,3,Destination1,13,919,Business,Online,1.4
+153,18,Female,Australia,1,Destination4,12,981,Economy,Online,3.8
+154,63,Male,Papua New Guinea,4,Destination3,11,527,Business,Agency,1.9
+155,39,Female,Andorra,2,Destination4,11,1325,Economy,Online,2.5
+156,47,Female,Italy,0,Destination2,9,427,First,Online,3.7
+157,33,Male,Romania,2,Destination3,4,1957,Economy,Online,2.6
+158,29,Male,Japan,1,Destination2,5,1859,Economy,Online,4.5
+159,26,Male,United States Virgin Islands,4,Destination4,8,1775,Economy,Online,4.3
+160,18,Female,Seychelles,4,Destination1,5,1267,Economy,Online,3.7
+161,19,Male,Zimbabwe,2,Destination4,10,343,Business,Online,3.2
+162,68,Female,Liberia,1,Destination2,8,1217,Business,Agency,2.3
+163,33,Female,Syrian Arab Republic,2,Destination3,2,884,Economy,Agency,2.4
+164,34,Female,Saint Vincent and the Grenadines,2,Destination4,12,1095,Economy,Online,5.0
+165,69,Female,Trinidad and Tobago,5,Destination3,3,877,Business,Online,4.2
+166,27,Male,Lesotho,1,Destination4,4,1221,Business,Online,1.9
+167,64,Female,Nicaragua,2,Destination2,13,1322,Economy,Online,3.5
+168,58,Male,Ethiopia,1,Destination1,3,1259,Business,Online,4.1
+169,22,Female,Korea,3,Destination4,11,1696,Economy,Online,3.5
+170,23,Male,Norfolk Island,1,Destination1,7,910,Economy,Online,2.5
+171,58,Female,Yemen,1,Destination4,8,909,Economy,Online,3.4
+172,52,Female,Portugal,4,Destination4,9,304,Economy,Agency,1.9
+173,63,Male,Hungary,2,Destination3,6,649,Economy,Online,1.7
+174,26,Male,Norfolk Island,1,Destination3,5,1441,Economy,Agency,3.9
+175,39,Male,Guatemala,2,Destination3,10,1782,Economy,Online,2.4
+176,38,Male,Antigua and Barbuda,4,Destination4,7,1060,Economy,Online,2.9
+177,51,Female,El Salvador,0,Destination2,8,1328,Economy,Agency,4.9
+178,22,Female,Nigeria,1,Destination2,5,455,Economy,Online,4.0
+179,66,Female,Italy,2,Destination4,11,873,Economy,Online,4.8
+180,29,Female,Tokelau,2,Destination3,3,-63,Economy,Online,2.2
+181,63,Female,Marshall Islands,1,Destination4,7,1731,Economy,Agency,4.2
+182,56,Female,Finland,3,Destination1,7,929,Business,Online,3.8
+183,22,Male,Yemen,1,Destination2,6,1080,Economy,Online,3.6
+184,64,Female,Solomon Islands,1,Destination3,9,502,Business,Agency,3.3
+185,69,Female,Zimbabwe,0,Destination1,7,1357,Economy,Online,2.9
+186,47,Male,Mali,1,Destination3,10,264,Business,Agency,1.7
+187,60,Male,Moldova,1,Destination3,4,330,Economy,Online,2.9
+188,66,Male,Slovenia,3,Destination3,6,1437,Economy,Online,1.8
+189,37,Female,Cayman Islands,4,Destination1,6,1101,Economy,Online,3.2
+190,21,Female,El Salvador,1,Destination1,5,711,Economy,Online,2.2
+191,53,Female,Guinea-Bissau,2,Destination3,10,1434,Economy,Online,3.4
+192,56,Male,Western Sahara,6,Destination1,11,651,Economy,Agency,1.2
+193,33,Female,New Zealand,2,Destination4,5,123,Business,Online,2.4
+194,40,Male,Eritrea,0,Destination2,4,1346,Economy,Online,1.6
+195,62,Male,Nigeria,2,Destination3,6,1140,Economy,Online,4.7
+196,29,Female,Malta,7,Destination2,7,1656,Economy,Online,2.4
+197,26,Female,Tuvalu,2,Destination2,5,1143,Economy,Online,3.0
+198,62,Female,Azerbaijan,4,Destination2,5,-247,First,Online,4.5
+199,45,Female,India,2,Destination1,2,828,Business,Online,3.6
+200,70,Female,French Polynesia,1,Destination3,14,25,Economy,Online,3.0
+201,58,Female,Samoa,2,Destination4,7,1081,Business,Online,1.9
+202,32,Male,Sweden,2,Destination4,2,1550,Business,Agency,4.3
+203,25,Female,Gambia,3,Destination3,6,1155,Economy,Agency,3.6
+204,39,Female,Colombia,0,Destination2,6,824,First,Online,1.4
+205,38,Female,Northern Mariana Islands,1,Destination1,5,1130,Economy,Online,2.9
+206,59,Female,Bahrain,4,Destination2,8,1516,Business,Online,1.1
+207,37,Male,Hungary,2,Destination2,5,515,Business,Agency,1.1
+208,20,Female,Nigeria,1,Destination2,2,1835,Economy,Online,4.8
+209,50,Female,Malaysia,3,Destination3,9,707,Economy,Online,2.0
+210,38,Female,Swaziland,1,Destination4,5,1306,First,Online,3.6
+211,25,Female,Lebanon,3,Destination4,-1,1224,Economy,Online,1.1
+212,51,Male,Philippines,0,Destination3,1,1336,Business,Online,2.0
+213,65,Male,Cuba,1,Destination3,8,1840,Economy,Online,4.5
+214,47,Male,Benin,2,Destination1,9,717,Economy,Online,1.5
+215,60,Female,South Africa,2,Destination2,7,839,Business,Online,4.0
+216,18,Female,Montenegro,5,Destination1,2,960,First,Online,1.4
+217,36,Female,Mayotte,2,Destination2,7,1596,Economy,Online,4.8
+218,19,Female,Faroe Islands,1,Destination2,3,932,Economy,Online,1.9
+219,29,Male,Palau,1,Destination3,5,522,Economy,Online,4.2
+220,68,Male,Luxembourg,2,Destination1,6,1416,Economy,Online,3.1
+221,47,Male,Costa Rica,0,Destination1,9,1140,Economy,Online,3.1
+222,53,Male,Oman,1,Destination1,12,30,Economy,Agency,2.5
+223,36,Male,Wallis and Futuna,0,Destination3,10,-13,Business,Online,4.1
+224,32,Male,Hungary,2,Destination4,4,441,Economy,Online,4.3
+225,57,Female,Georgia,2,Destination4,-2,725,Economy,Online,4.0
+226,49,Female,India,2,Destination2,8,1548,Economy,Online,2.2
+227,59,Female,Armenia,4,Destination2,7,755,Economy,Online,1.9
+228,50,Female,Antigua and Barbuda,1,Destination4,10,534,Economy,Agency,1.8
+229,30,Male,Sierra Leone,4,Destination4,6,1545,Economy,Agency,4.7
+230,24,Male,Pitcairn Islands,5,Destination1,6,414,Economy,Online,4.8
+231,59,Male,Kyrgyz Republic,1,Destination2,6,969,Economy,Online,3.5
+232,59,Male,Rwanda,3,Destination2,5,1372,Economy,Online,2.0
+233,26,Female,Marshall Islands,1,Destination3,8,1286,Business,Online,1.5
+234,63,Female,Palau,3,Destination2,3,718,First,Online,3.7
+235,52,Female,Kenya,0,Destination3,8,682,Economy,Online,4.9
+236,34,Male,Grenada,3,Destination2,5,985,Economy,Online,1.7
+237,63,Female,Mongolia,0,Destination3,8,457,Economy,Online,4.2
+238,26,Female,French Guiana,1,Destination1,8,1468,First,Online,3.1
+239,61,Male,French Southern Territories,2,Destination3,13,893,Economy,Online,3.4
+240,28,Male,Norfolk Island,1,Destination1,4,421,Business,Online,1.1
+241,42,Male,Tajikistan,1,Destination2,5,569,Business,Online,2.9
+242,52,Male,Grenada,5,Destination2,8,673,Economy,Agency,4.1
+243,49,Female,Namibia,1,Destination4,6,1587,Business,Online,1.3
+244,24,Female,Saint Helena,4,Destination4,6,1547,Economy,Agency,1.7
+245,34,Female,Egypt,5,Destination4,3,1189,Business,Online,1.7
+246,26,Male,Norway,4,Destination3,8,634,Economy,Online,2.2
+247,19,Male,Lebanon,2,Destination4,8,890,Economy,Agency,2.0
+248,66,Female,Pitcairn Islands,1,Destination4,5,1482,Economy,Online,3.2
+249,25,Female,Liechtenstein,4,Destination3,6,461,First,Agency,2.7
+250,20,Female,Cocos (Keeling) Islands,0,Destination3,7,1567,Business,Agency,1.9
+251,33,Female,Australia,4,Destination3,3,1497,Business,Online,2.0
+252,40,Male,South Africa,2,Destination2,14,914,First,Online,1.4
+253,68,Female,United Arab Emirates,3,Destination3,9,1785,Economy,Online,3.9
+254,50,Female,Svalbard & Jan Mayen Islands,3,Destination3,11,620,Business,Online,3.7
+255,58,Female,United States Virgin Islands,1,Destination2,7,1852,Economy,Online,2.9
+256,33,Female,Cape Verde,2,Destination1,4,1137,Economy,Online,1.7
+257,36,Male,New Caledonia,3,Destination4,8,1314,First,Online,3.2
+258,61,Male,Pitcairn Islands,2,Destination3,5,768,Economy,Online,1.8
+259,56,Female,Angola,1,Destination2,8,1375,Business,Agency,1.0
+260,46,Female,Saint Barthelemy,0,Destination3,7,1230,Business,Online,3.2
+261,39,Male,Congo,1,Destination1,5,710,Business,Online,2.1
+262,18,Female,Paraguay,2,Destination1,7,1092,Economy,Online,1.3
+263,57,Female,Yemen,4,Destination1,9,822,Economy,Agency,2.4
+264,67,Male,Dominica,6,Destination3,8,-47,First,Online,4.0
+265,44,Female,Saint Barthelemy,1,Destination4,6,611,Business,Online,3.3
+266,52,Male,United States Minor Outlying Islands,1,Destination4,5,1182,Economy,Online,2.5
+267,69,Male,Syrian Arab Republic,5,Destination4,6,1243,Business,Online,1.4
+268,18,Female,Iran,1,Destination2,7,571,Economy,Online,2.7
+269,51,Female,Bolivia,1,Destination3,10,701,Economy,Online,3.0
+270,31,Female,Maldives,2,Destination2,9,572,Economy,Online,2.3
+271,56,Female,Tonga,4,Destination3,6,1176,Business,Online,3.4
+272,20,Female,Armenia,1,Destination1,8,202,Economy,Online,3.0
+273,66,Female,Mozambique,1,Destination1,7,203,Economy,Online,2.5
+274,27,Male,Iceland,2,Destination4,8,744,Economy,Online,1.1
+275,68,Male,Italy,1,Destination4,9,1415,Economy,Online,1.8
+276,26,Female,Dominica,0,Destination3,5,1706,First,Online,4.7
+277,51,Male,Somalia,1,Destination1,12,198,Economy,Online,1.1
+278,35,Female,Papua New Guinea,2,Destination1,13,1452,Economy,Online,4.3
+279,34,Female,Central African Republic,2,Destination2,14,919,Economy,Online,1.7
+280,59,Female,Norfolk Island,2,Destination4,6,1383,Business,Online,4.1
+281,47,Female,Luxembourg,1,Destination3,8,1871,Economy,Online,2.6
+282,27,Male,New Caledonia,0,Destination2,7,1243,Economy,Agency,4.2
+283,42,Male,Somalia,1,Destination4,7,1829,First,Agency,4.0
+284,36,Male,Egypt,2,Destination4,5,1159,Economy,Online,3.5
+285,27,Female,Equatorial Guinea,1,Destination3,5,1376,Business,Online,2.0
+286,29,Male,Panama,1,Destination4,10,1426,Economy,Agency,4.9
+287,35,Male,Malaysia,0,Destination1,2,995,Economy,Online,1.3
+288,30,Male,Mauritius,2,Destination4,5,2335,Economy,Online,2.4
+289,62,Female,Congo,2,Destination2,6,818,Economy,Online,4.0
+290,38,Male,United Kingdom,1,Destination4,8,413,Business,Online,3.0
+291,64,Male,Congo,2,Destination3,8,1347,Economy,Online,1.2
+292,59,Male,Israel,1,Destination4,9,2543,Economy,Online,3.7
+293,38,Female,Guyana,1,Destination1,5,682,Economy,Online,2.6
+294,33,Male,Mayotte,4,Destination3,7,898,Economy,Online,3.0
+295,70,Female,Tokelau,2,Destination1,2,392,Economy,Online,3.7
+296,55,Female,Marshall Islands,2,Destination4,13,950,Business,Online,1.3
+297,29,Male,Poland,3,Destination4,6,1259,Economy,Agency,4.8
+298,64,Female,Germany,4,Destination3,9,1412,First,Agency,2.4
+299,23,Female,Mexico,0,Destination3,9,1481,Economy,Online,1.7
+300,27,Male,Singapore,2,Destination1,3,525,Economy,Online,4.8
+301,68,Male,Kenya,2,Destination2,10,1528,Economy,Online,1.1
+302,49,Male,French Guiana,0,Destination3,0,2092,Economy,Agency,3.6
+303,58,Female,Liechtenstein,2,Destination3,6,1072,Economy,Online,3.0
+304,29,Male,Malta,2,Destination3,8,1098,Economy,Online,4.5
+305,57,Male,Belgium,1,Destination2,11,1092,First,Agency,1.5
+306,34,Male,Comoros,3,Destination4,3,787,Economy,Online,3.3
+307,29,Female,Trinidad and Tobago,0,Destination4,7,1484,Economy,Online,2.0
+308,70,Male,South Africa,1,Destination4,2,1479,First,Online,1.2
+309,44,Male,Netherlands Antilles,1,Destination2,11,671,Business,Online,3.7
+310,35,Male,Palau,1,Destination3,7,829,Economy,Agency,2.8
+311,59,Female,Sweden,2,Destination1,9,1032,First,Online,4.7
+312,57,Female,Colombia,0,Destination2,3,1115,Business,Online,3.6
+313,42,Female,Saint Lucia,3,Destination3,6,1115,Economy,Online,3.2
+314,66,Male,Latvia,4,Destination3,7,1375,Economy,Online,4.8
+315,70,Male,Libyan Arab Jamahiriya,1,Destination2,7,205,Economy,Agency,3.4
+316,31,Female,Central African Republic,2,Destination4,4,1738,Economy,Online,3.5
+317,30,Male,Kuwait,1,Destination1,11,952,First,Online,4.8
+318,28,Male,Nicaragua,2,Destination2,6,1501,Economy,Online,1.4
+319,59,Male,Mayotte,0,Destination2,6,1258,Economy,Online,2.3
+320,64,Female,Oman,2,Destination4,6,1040,First,Online,2.8
+321,51,Female,Nauru,0,Destination1,6,1342,Economy,Agency,3.2
+322,30,Female,Malaysia,0,Destination3,6,738,Economy,Online,3.0
+323,57,Female,Spain,2,Destination4,3,377,Economy,Agency,3.5
+324,29,Female,Chad,4,Destination4,5,1635,Economy,Online,3.5
+325,33,Female,Kyrgyz Republic,2,Destination1,4,1146,Economy,Online,2.1
+326,58,Female,Wallis and Futuna,1,Destination1,0,1090,Economy,Online,2.3
+327,49,Male,San Marino,3,Destination3,7,1235,Business,Online,1.2
+328,67,Female,Anguilla,1,Destination1,9,1433,Business,Online,3.5
+329,70,Female,Seychelles,3,Destination4,4,1303,Economy,Online,1.6
+330,55,Male,Burundi,3,Destination4,10,683,Economy,Agency,4.8
+331,50,Male,Kyrgyz Republic,4,Destination1,8,1316,Economy,Online,3.4
+332,37,Male,Lithuania,3,Destination2,4,672,First,Online,4.8
+333,68,Female,Poland,4,Destination2,9,1758,Economy,Online,2.5
+334,35,Female,Brunei Darussalam,1,Destination2,3,374,First,Online,4.1
+335,68,Female,Trinidad and Tobago,2,Destination4,3,1705,Business,Online,2.2
+336,42,Male,Panama,0,Destination4,7,1451,Economy,Online,3.3
+337,42,Female,Japan,1,Destination4,10,916,Business,Agency,2.7
+338,59,Female,Lithuania,4,Destination1,8,1060,Business,Online,1.5
+339,70,Male,Cape Verde,1,Destination1,10,942,Economy,Online,5.0
+340,45,Female,Netherlands,2,Destination3,5,1010,Economy,Online,2.6
+341,47,Male,Brunei Darussalam,3,Destination3,9,1852,Business,Online,4.7
+342,55,Male,Guadeloupe,1,Destination4,3,959,Economy,Online,1.2
+343,51,Male,Japan,1,Destination3,9,-331,Economy,Online,1.8
+344,32,Male,Angola,1,Destination3,12,1608,First,Online,2.9
+345,21,Female,Albania,0,Destination4,8,456,Economy,Online,4.6
+346,27,Female,Nepal,1,Destination2,5,1764,Economy,Online,4.0
+347,36,Female,British Virgin Islands,2,Destination2,6,612,Economy,Online,2.2
+348,38,Male,Costa Rica,2,Destination4,4,1585,Business,Agency,2.3
+349,23,Female,Paraguay,3,Destination3,2,388,Economy,Online,3.2
+350,67,Male,Guinea-Bissau,1,Destination1,1,1013,Economy,Online,2.4
+351,33,Female,Iceland,3,Destination2,10,1495,Economy,Online,1.2
+352,30,Male,Norway,1,Destination2,10,1989,Business,Agency,2.1
+353,38,Male,Faroe Islands,4,Destination1,5,1126,Economy,Agency,3.0
+354,35,Female,Serbia,3,Destination1,7,1107,Economy,Online,1.7
+355,69,Male,French Polynesia,2,Destination1,3,611,Economy,Online,4.0
+356,46,Female,Tokelau,1,Destination2,3,1064,Economy,Online,2.7
+357,20,Male,Botswana,4,Destination4,6,721,Economy,Agency,4.7
+358,30,Female,Bosnia and Herzegovina,2,Destination3,9,789,Economy,Online,2.0
+359,52,Female,Austria,3,Destination2,2,1092,Economy,Online,2.8
+360,54,Female,Tunisia,1,Destination4,6,551,Business,Online,1.6
+361,58,Male,Italy,0,Destination4,9,1453,Business,Online,4.6
+362,69,Female,Egypt,3,Destination1,2,1320,Economy,Online,4.3
+363,53,Female,Cook Islands,0,Destination1,8,1258,Economy,Online,2.0
+364,38,Male,Equatorial Guinea,1,Destination3,4,1780,Economy,Agency,4.1
+365,67,Male,Bahamas,2,Destination4,8,1182,Economy,Online,4.2
+366,35,Female,Burkina Faso,2,Destination3,7,1329,Economy,Online,4.6
+367,55,Female,Samoa,1,Destination1,5,1361,Economy,Agency,4.1
+368,40,Male,New Caledonia,1,Destination4,10,985,Business,Online,3.4
+369,65,Male,Mozambique,3,Destination1,2,1561,First,Online,3.6
+370,59,Female,Trinidad and Tobago,2,Destination1,7,659,Economy,Online,2.3
+371,28,Male,Ecuador,1,Destination2,12,707,Economy,Online,3.0
+372,30,Female,Lebanon,1,Destination4,5,828,Economy,Online,3.5
+373,37,Male,Russian Federation,1,Destination3,6,1898,Economy,Agency,4.3
+374,28,Male,Chad,0,Destination3,3,821,Business,Online,4.6
+375,68,Male,Philippines,2,Destination3,4,1391,Economy,Online,1.2
+376,23,Male,Peru,2,Destination1,8,451,Business,Online,1.6
+377,37,Male,Tuvalu,2,Destination3,7,714,First,Online,3.6
+378,52,Male,Trinidad and Tobago,2,Destination2,6,1034,Economy,Online,3.5
+379,19,Male,Madagascar,2,Destination1,7,983,Economy,Online,1.6
+380,69,Female,Slovenia,0,Destination1,10,437,Business,Online,4.5
+381,44,Female,Liberia,2,Destination1,6,377,Economy,Online,4.3
+382,24,Male,Cambodia,1,Destination3,10,1148,Economy,Agency,3.5
+383,23,Female,Singapore,1,Destination3,9,930,Economy,Online,3.9
+384,66,Female,Sweden,1,Destination2,5,786,Economy,Online,2.1
+385,46,Male,Nauru,0,Destination2,6,1154,Economy,Online,2.0
+386,65,Female,Mexico,3,Destination3,4,759,Economy,Online,1.8
+387,41,Male,Saint Kitts and Nevis,5,Destination4,2,970,Business,Online,2.7
+388,30,Female,Bermuda,3,Destination3,4,1835,Economy,Online,2.5
+389,61,Female,Sweden,5,Destination3,4,1305,First,Online,2.2
+390,54,Male,Togo,0,Destination1,16,576,Economy,Online,3.2
+391,65,Male,Guadeloupe,3,Destination4,4,1958,Business,Online,4.6
+392,34,Female,Nicaragua,1,Destination4,7,-107,Economy,Agency,2.9
+393,42,Female,Jersey,2,Destination2,7,1091,Economy,Online,3.4
+394,19,Female,Saint Martin,3,Destination1,3,858,Economy,Online,2.1
+395,69,Female,Oman,3,Destination3,3,1583,First,Online,3.6
+396,67,Male,Cook Islands,2,Destination1,13,1674,Economy,Online,4.3
+397,62,Female,Montenegro,4,Destination4,1,1429,Business,Online,4.2
+398,25,Female,Switzerland,1,Destination1,6,835,Economy,Online,3.0
+399,50,Female,Luxembourg,1,Destination2,8,955,Economy,Online,1.5
+400,61,Male,Tunisia,2,Destination1,10,639,First,Agency,2.9
+401,20,Male,Bolivia,0,Destination4,5,-223,Economy,Online,2.4
+402,40,Female,Liberia,2,Destination3,9,1142,Economy,Online,3.9
+403,20,Female,Algeria,2,Destination4,8,1756,Economy,Online,1.9
+404,35,Female,Japan,2,Destination4,4,218,Economy,Online,4.9
+405,57,Male,United States Minor Outlying Islands,1,Destination3,14,675,First,Online,2.7
+406,41,Male,Guinea-Bissau,3,Destination4,2,951,Economy,Online,2.8
+407,29,Male,Spain,2,Destination4,2,494,Business,Online,1.6
+408,33,Male,Afghanistan,1,Destination2,9,676,Business,Online,2.5
+409,33,Female,Moldova,2,Destination1,8,1023,First,Agency,2.8
+410,30,Female,Serbia,3,Destination3,10,789,Economy,Online,2.2
+411,37,Male,Saint Barthelemy,1,Destination4,9,347,Business,Online,2.0
+412,26,Female,Tunisia,0,Destination3,11,560,Economy,Online,4.3
+413,41,Female,Ukraine,1,Destination2,6,484,Economy,Online,3.3
+414,43,Female,Sao Tome and Principe,4,Destination1,6,1285,Economy,Online,1.8
+415,48,Male,Malaysia,2,Destination4,7,1193,Economy,Agency,2.8
+416,50,Male,Wallis and Futuna,2,Destination1,10,916,Economy,Online,4.3
+417,37,Male,Denmark,1,Destination3,3,1350,Economy,Online,4.7
+418,40,Male,India,0,Destination1,6,1093,First,Online,3.1
+419,22,Male,Cocos (Keeling) Islands,1,Destination3,6,997,Economy,Agency,1.2
+420,43,Female,Oman,0,Destination3,2,540,Economy,Online,1.1
+421,31,Male,Slovakia (Slovak Republic),3,Destination2,1,1328,Business,Online,2.6
+422,69,Male,Hong Kong,1,Destination2,8,534,Business,Online,3.6
+423,58,Female,San Marino,1,Destination3,5,1854,Economy,Online,1.3
+424,35,Male,Kenya,2,Destination3,3,1451,Economy,Online,2.0
+425,59,Female,Bosnia and Herzegovina,4,Destination3,5,770,Economy,Agency,3.1
+426,46,Female,Italy,4,Destination2,8,418,Economy,Online,4.4
+427,60,Female,Gibraltar,3,Destination3,10,1134,Economy,Online,5.0
+428,61,Male,Tokelau,0,Destination3,10,27,Economy,Online,4.9
+429,26,Female,Kyrgyz Republic,5,Destination3,6,904,Economy,Online,4.5
+430,22,Male,Zimbabwe,3,Destination2,0,181,Business,Online,4.4
+431,36,Male,Guatemala,3,Destination4,8,1570,Economy,Online,2.2
+432,69,Male,Azerbaijan,2,Destination2,8,283,Economy,Online,4.4
+433,61,Female,Cocos (Keeling) Islands,2,Destination1,11,760,First,Online,1.4
+434,37,Male,Liberia,2,Destination4,5,201,Economy,Online,4.0
+435,42,Female,American Samoa,1,Destination2,10,930,Business,Online,3.3
+436,67,Male,Kyrgyz Republic,2,Destination3,2,930,Business,Online,2.0
+437,41,Male,French Guiana,1,Destination3,1,1240,Economy,Online,4.3
+438,58,Male,Greece,2,Destination1,4,1192,Business,Online,4.4
+439,43,Male,Slovakia (Slovak Republic),1,Destination2,3,1939,Economy,Online,3.7
+440,31,Female,Benin,2,Destination1,5,681,Economy,Online,4.9
+441,69,Male,Zimbabwe,0,Destination2,1,1537,Business,Online,2.0
+442,48,Female,Qatar,3,Destination3,0,1394,First,Agency,2.7
+443,40,Female,Mongolia,2,Destination4,15,1907,Economy,Agency,2.8
+444,33,Male,Cayman Islands,1,Destination3,8,769,Economy,Agency,2.1
+445,42,Male,Niue,2,Destination2,9,938,Business,Online,1.2
+446,60,Female,Ireland,0,Destination2,3,1199,First,Online,2.9
+447,45,Female,Slovenia,4,Destination4,6,62,Economy,Online,3.6
+448,65,Male,Afghanistan,0,Destination4,4,1141,Economy,Agency,3.3
+449,59,Female,Marshall Islands,2,Destination3,7,317,Economy,Online,4.8
+450,58,Male,Yemen,5,Destination2,11,874,Business,Agency,4.0
+451,65,Male,Denmark,1,Destination1,2,1493,Economy,Agency,1.7
+452,35,Female,Congo,5,Destination1,7,1529,Economy,Online,3.3
+453,18,Male,Venezuela,4,Destination3,4,1414,Economy,Online,2.4
+454,26,Female,British Indian Ocean Territory (Chagos Archipelago),3,Destination4,7,1078,Economy,Online,4.8
+455,22,Male,Tuvalu,1,Destination3,6,-186,Economy,Agency,1.3
+456,20,Female,Romania,4,Destination3,11,849,Business,Online,4.3
+457,45,Female,Belgium,3,Destination1,5,1783,Economy,Online,2.2
+458,42,Male,Kuwait,0,Destination1,3,1823,Economy,Online,3.7
+459,18,Female,Cook Islands,2,Destination4,5,1229,Economy,Online,1.0
+460,67,Male,South Georgia and the South Sandwich Islands,0,Destination3,9,899,Economy,Online,3.2
+461,63,Male,Nigeria,1,Destination1,3,1344,Business,Online,3.9
+462,60,Male,Congo,3,Destination2,4,1260,Economy,Online,2.9
+463,36,Female,Latvia,4,Destination4,2,1243,Business,Online,3.3
+464,59,Male,Seychelles,1,Destination1,8,1330,Economy,Online,3.4
+465,54,Female,North Macedonia,0,Destination2,7,1001,Economy,Agency,2.0
+466,22,Male,Monaco,2,Destination3,10,709,Economy,Agency,4.0
+467,59,Male,Mexico,1,Destination4,10,1549,Economy,Online,3.9
+468,44,Female,Peru,4,Destination3,11,1715,Economy,Online,3.3
+469,66,Male,Trinidad and Tobago,1,Destination3,8,911,Economy,Online,2.0
+470,52,Male,North Macedonia,0,Destination3,6,974,Economy,Agency,4.0
+471,52,Male,Sweden,3,Destination4,7,1900,Economy,Agency,3.6
+472,53,Male,Norfolk Island,1,Destination1,7,429,First,Agency,3.8
+473,34,Male,Gibraltar,2,Destination3,5,1492,Economy,Agency,3.1
+474,31,Male,Pakistan,0,Destination3,8,920,Business,Online,1.5
+475,54,Male,Saint Vincent and the Grenadines,1,Destination3,6,1169,Economy,Agency,4.9
+476,32,Male,Equatorial Guinea,1,Destination2,0,1843,Economy,Online,3.3
+477,66,Male,Ethiopia,2,Destination3,7,1375,Economy,Agency,4.5
+478,38,Female,Dominican Republic,1,Destination4,7,1701,Economy,Agency,3.5
+479,33,Male,Vietnam,2,Destination4,13,1621,Economy,Agency,1.6
+480,48,Female,Guinea-Bissau,0,Destination2,5,-2,Economy,Online,2.6
+481,69,Female,Aruba,3,Destination1,5,1384,Economy,Online,4.4
+482,31,Male,Barbados,3,Destination4,5,-46,First,Online,2.7
+483,31,Male,Romania,1,Destination4,8,1629,Economy,Online,2.6
+484,35,Female,Eritrea,0,Destination2,8,845,Economy,Agency,2.2
+485,66,Male,Bahamas,4,Destination4,-1,1016,Economy,Online,1.2
+486,60,Male,Belgium,3,Destination4,8,226,Economy,Online,1.9
+487,51,Female,Jersey,2,Destination1,4,1000,Economy,Agency,4.8
+488,30,Male,Christmas Island,3,Destination1,3,603,Economy,Online,4.8
+489,46,Female,Guinea-Bissau,4,Destination2,6,1121,Economy,Online,2.4
+490,24,Male,Oman,3,Destination1,7,1268,Economy,Online,4.0
+491,23,Female,Micronesia,2,Destination2,6,1517,Economy,Online,4.8
+492,61,Female,San Marino,2,Destination3,7,842,Economy,Online,1.9
+493,61,Female,Sierra Leone,1,Destination3,8,809,Economy,Online,4.0
+494,69,Female,Swaziland,1,Destination2,7,622,Economy,Online,1.0
+495,36,Female,Holy See (Vatican City State),4,Destination4,9,948,Economy,Online,4.9
+496,48,Female,Palau,0,Destination1,11,642,Economy,Online,5.0
+497,57,Male,Armenia,2,Destination4,8,910,Economy,Online,2.1
+498,53,Male,Yemen,2,Destination1,15,1323,Economy,Online,4.7
+499,39,Male,Singapore,4,Destination3,4,1294,Economy,Online,3.7
+500,32,Female,United Kingdom,1,Destination3,7,404,Economy,Agency,2.6
+501,35,Female,Papua New Guinea,2,Destination2,4,678,Economy,Agency,2.3
+502,49,Male,Kazakhstan,0,Destination4,1,1329,Economy,Agency,1.3
+503,57,Male,Cote d'Ivoire,4,Destination4,8,2012,Economy,Online,2.1
+504,25,Female,Cyprus,2,Destination1,4,1063,Economy,Online,4.0
+505,22,Female,Benin,0,Destination1,4,609,Business,Agency,3.9
+506,28,Male,Montserrat,1,Destination1,8,1005,Economy,Online,4.5
+507,41,Male,Bermuda,2,Destination2,5,963,Economy,Online,2.5
+508,46,Male,Saint Pierre and Miquelon,3,Destination4,3,1182,Economy,Agency,2.7
+509,37,Female,Turkey,1,Destination3,1,670,Economy,Online,4.8
+510,60,Female,Timor-Leste,1,Destination1,7,2557,Economy,Online,2.8
+511,47,Male,Suriname,1,Destination4,5,2209,Business,Online,2.4
+512,61,Male,Lebanon,1,Destination3,9,1428,Economy,Online,4.8
+513,31,Female,Greenland,2,Destination2,7,1811,Economy,Online,4.0
+514,26,Male,Palau,1,Destination2,11,1855,Economy,Online,4.2
+515,43,Male,Turkey,2,Destination4,10,1025,Economy,Online,2.9
+516,52,Male,Swaziland,2,Destination4,2,763,Economy,Online,1.5
+517,41,Female,Solomon Islands,3,Destination3,8,526,Business,Online,3.2
+518,41,Female,Jersey,2,Destination1,9,-10,Business,Online,1.7
+519,39,Male,Christmas Island,7,Destination2,3,1656,Economy,Online,1.1
+520,49,Male,Ecuador,2,Destination3,10,1546,Economy,Agency,2.7
+521,64,Male,Syrian Arab Republic,0,Destination3,4,1444,Economy,Online,3.8
+522,70,Female,Iraq,2,Destination2,12,1323,Economy,Online,2.6
+523,69,Female,Angola,6,Destination3,3,583,Business,Online,3.3
+524,18,Male,Bosnia and Herzegovina,1,Destination3,9,948,Economy,Agency,1.3
+525,63,Male,Korea,2,Destination2,3,1207,Economy,Online,2.6
+526,59,Male,Mozambique,0,Destination2,15,682,Economy,Online,3.3
+527,41,Female,Belgium,1,Destination1,5,-389,Business,Online,2.6
+528,65,Female,Montserrat,1,Destination1,2,1601,Business,Online,4.7
+529,23,Male,Trinidad and Tobago,3,Destination1,10,636,Economy,Agency,4.7
+530,33,Female,Mali,2,Destination3,2,586,Economy,Online,3.9
+531,25,Male,Lesotho,2,Destination3,8,1255,Economy,Online,3.1
+532,48,Male,Azerbaijan,1,Destination3,6,1325,Economy,Agency,2.8
+533,49,Female,Papua New Guinea,1,Destination4,5,469,Economy,Online,3.8
+534,20,Female,Singapore,1,Destination3,7,914,Economy,Online,4.4
+535,58,Male,Lesotho,1,Destination4,5,1410,Economy,Online,2.7
+536,56,Male,Burundi,1,Destination4,3,470,Economy,Online,3.1
+537,18,Female,Mayotte,3,Destination3,5,1857,Economy,Online,3.5
+538,25,Male,Maldives,2,Destination2,6,1055,Economy,Online,4.2
+539,59,Male,Bulgaria,1,Destination3,5,723,First,Online,3.4
+540,33,Female,Lesotho,1,Destination4,4,1898,Economy,Online,3.8
+541,70,Female,Swaziland,5,Destination2,10,915,Economy,Online,4.4
+542,20,Female,Syrian Arab Republic,2,Destination2,3,1175,Economy,Agency,1.1
+543,68,Male,Dominica,1,Destination4,9,1056,Economy,Online,3.3
+544,54,Female,Guernsey,0,Destination1,4,538,First,Online,4.3
+545,41,Male,Faroe Islands,1,Destination4,9,819,Economy,Online,4.0
+546,54,Female,Honduras,3,Destination2,6,549,Economy,Online,3.5
+547,47,Female,Indonesia,2,Destination1,11,1330,Economy,Online,3.3
+548,41,Female,Croatia,1,Destination1,7,1340,First,Online,4.0
+549,36,Male,Micronesia,0,Destination3,9,268,Economy,Online,1.6
+550,39,Male,Suriname,1,Destination4,6,615,Business,Online,1.4
+551,58,Female,Guatemala,1,Destination4,8,1300,First,Online,4.7
+552,53,Male,Grenada,0,Destination4,4,1423,Economy,Online,1.5
+553,35,Male,Slovakia (Slovak Republic),0,Destination4,5,1445,Business,Online,3.9
+554,54,Female,United States Virgin Islands,0,Destination1,7,734,Economy,Online,4.8
+555,55,Male,Monaco,1,Destination1,11,1068,First,Online,2.5
+556,27,Male,Malaysia,2,Destination3,4,1354,First,Online,3.6
+557,41,Female,Qatar,4,Destination1,3,1713,Economy,Agency,4.6
+558,66,Male,Trinidad and Tobago,2,Destination3,2,847,Economy,Online,1.9
+559,49,Male,Hong Kong,1,Destination2,6,1392,Economy,Online,2.5
+560,35,Female,North Macedonia,3,Destination4,4,1148,Economy,Online,2.9
+561,31,Female,Angola,2,Destination3,4,1423,Business,Agency,1.2
+562,66,Female,Cyprus,1,Destination3,12,-173,Economy,Online,2.3
+563,65,Female,Guatemala,3,Destination4,10,6,Economy,Online,1.3
+564,63,Female,Liberia,3,Destination2,7,532,Economy,Online,2.4
+565,39,Female,India,5,Destination1,5,1810,Economy,Online,2.8
+566,53,Female,San Marino,6,Destination1,6,901,Economy,Online,3.6
+567,42,Male,Guatemala,0,Destination1,10,608,Business,Online,2.6
+568,43,Female,Cameroon,2,Destination4,9,1219,Business,Online,4.3
+569,26,Female,Cayman Islands,6,Destination2,9,2425,Economy,Online,1.9
+570,43,Male,Pitcairn Islands,3,Destination2,4,1153,Business,Online,4.4
+571,70,Male,Holy See (Vatican City State),0,Destination1,6,1230,Economy,Online,4.7
+572,63,Male,Falkland Islands (Malvinas),0,Destination1,4,68,Business,Agency,3.5
+573,65,Male,Gibraltar,2,Destination3,5,814,Economy,Agency,1.9
+574,50,Male,Croatia,1,Destination1,8,1407,Business,Online,1.7
+575,24,Male,Macao,2,Destination4,8,1113,Economy,Online,1.8
+576,22,Female,Singapore,1,Destination1,11,1218,Economy,Online,1.2
+577,68,Female,Faroe Islands,1,Destination3,4,706,Economy,Online,4.2
+578,42,Female,Christmas Island,6,Destination3,11,1338,Business,Online,2.5
+579,19,Male,Monaco,2,Destination4,7,1075,Economy,Online,2.9
+580,19,Male,Haiti,0,Destination4,10,708,Economy,Online,2.1
+581,46,Female,Christmas Island,1,Destination2,8,1155,Economy,Online,1.5
+582,50,Male,Christmas Island,0,Destination2,4,1292,Economy,Online,1.2
+583,56,Male,Tunisia,0,Destination3,8,787,Business,Online,2.5
+584,20,Female,Guadeloupe,1,Destination1,7,731,First,Online,1.2
+585,63,Male,Saudi Arabia,1,Destination1,6,1116,Economy,Online,4.0
+586,57,Female,Kiribati,4,Destination3,11,825,Economy,Online,2.0
+587,37,Female,Latvia,2,Destination2,8,1088,Economy,Online,4.2
+588,48,Female,Norfolk Island,1,Destination1,6,1440,Business,Online,1.7
+589,64,Male,Liberia,1,Destination4,9,983,Economy,Online,3.6
+590,33,Female,Brunei Darussalam,2,Destination1,5,1630,Economy,Online,4.5
+591,52,Female,Yemen,3,Destination3,11,1703,First,Online,3.8
+592,53,Female,Gibraltar,2,Destination1,7,1404,Economy,Online,2.6
+593,34,Female,Nepal,1,Destination2,6,2240,Economy,Online,1.4
+594,69,Female,Micronesia,0,Destination1,4,1296,Business,Agency,1.4
+595,25,Female,Ethiopia,1,Destination2,2,1722,Economy,Online,4.9
+596,50,Male,Cocos (Keeling) Islands,2,Destination2,7,1559,Economy,Online,4.9
+597,34,Male,New Zealand,4,Destination2,5,1184,Economy,Online,1.9
+598,67,Male,Tonga,1,Destination4,4,548,Economy,Online,1.1
+599,35,Female,Norfolk Island,1,Destination2,4,599,Economy,Online,2.3
+600,68,Female,Kuwait,0,Destination2,8,570,First,Online,3.6
+601,61,Female,Israel,3,Destination2,10,1901,Economy,Agency,1.3
+602,22,Male,Bulgaria,3,Destination4,4,1075,Economy,Online,1.8
+603,40,Male,Grenada,4,Destination3,8,489,First,Online,2.7
+604,63,Male,Saint Helena,2,Destination4,8,1070,First,Online,1.2
+605,55,Male,Cuba,3,Destination1,3,692,Economy,Online,3.1
+606,70,Male,Switzerland,3,Destination1,5,1715,Business,Agency,4.5
+607,51,Male,Anguilla,2,Destination4,6,1179,First,Online,4.7
+608,36,Female,Georgia,2,Destination3,6,698,Economy,Online,3.9
+609,26,Female,Nauru,2,Destination4,6,923,Economy,Online,3.1
+610,42,Female,Gabon,3,Destination1,7,1474,Business,Online,3.6
+611,28,Male,Bahamas,0,Destination2,6,1203,Economy,Online,1.8
+612,22,Female,Thailand,3,Destination3,11,1424,Economy,Online,1.8
+613,31,Male,Mozambique,1,Destination1,2,445,Economy,Agency,4.0
+614,44,Male,Taiwan,1,Destination2,11,1233,Economy,Online,1.7
+615,18,Female,Mauritania,3,Destination1,7,487,First,Online,2.9
+616,19,Female,Isle of Man,1,Destination3,10,1543,Economy,Online,3.0
+617,38,Female,Denmark,1,Destination2,6,1019,Economy,Online,2.2
+618,29,Male,Cameroon,1,Destination2,6,1779,Economy,Agency,1.3
+619,27,Female,Austria,2,Destination4,5,1819,Economy,Online,2.9
+620,24,Male,French Polynesia,4,Destination3,7,403,Economy,Online,3.8
+621,42,Female,Egypt,3,Destination1,0,2104,Economy,Online,3.7
+622,62,Female,Uruguay,2,Destination4,6,957,Economy,Online,3.2
+623,33,Male,Oman,3,Destination4,5,535,Economy,Online,2.6
+624,62,Female,Indonesia,1,Destination4,5,908,Business,Online,1.4
+625,29,Male,Guatemala,4,Destination2,6,837,Economy,Online,4.9
+626,29,Male,Albania,3,Destination4,4,1104,Economy,Online,1.7
+627,41,Female,Yemen,2,Destination2,1,1027,Business,Online,1.8
+628,53,Male,Tokelau,2,Destination1,6,666,Economy,Agency,1.5
+629,64,Female,Saint Pierre and Miquelon,4,Destination1,1,391,Economy,Online,4.2
+630,49,Male,Bhutan,0,Destination2,7,333,First,Online,4.5
+631,47,Male,Libyan Arab Jamahiriya,2,Destination2,2,1100,Business,Online,2.1
+632,68,Female,Canada,0,Destination3,5,437,Economy,Online,2.4
+633,27,Male,Taiwan,3,Destination3,13,1331,Economy,Online,2.7
+634,61,Female,Cape Verde,2,Destination1,5,1423,Economy,Online,3.1
+635,34,Female,Mexico,2,Destination4,7,1601,Economy,Agency,1.3
+636,19,Female,Cook Islands,3,Destination1,7,763,First,Online,4.8
+637,28,Female,Afghanistan,2,Destination1,9,315,Business,Online,3.5
+638,34,Female,Panama,0,Destination1,10,1277,Economy,Online,1.6
+639,53,Female,El Salvador,1,Destination1,6,328,Economy,Agency,2.5
+640,59,Female,Angola,2,Destination2,7,1365,Business,Online,2.9
+641,38,Male,Qatar,4,Destination4,11,1931,Economy,Online,3.7
+642,22,Male,Lebanon,0,Destination2,6,2030,First,Agency,2.3
+643,38,Male,Western Sahara,3,Destination3,7,759,Economy,Online,4.8
+644,25,Male,Zambia,1,Destination1,6,693,Economy,Online,4.1
+645,21,Female,Saint Pierre and Miquelon,2,Destination2,8,611,Economy,Online,1.8
+646,19,Female,Portugal,1,Destination1,11,1165,Economy,Online,3.4
+647,24,Female,Saint Lucia,5,Destination1,5,184,Business,Online,1.9
+648,59,Female,Namibia,1,Destination3,6,1531,Economy,Online,4.7
+649,35,Male,Reunion,2,Destination2,4,1285,Economy,Agency,3.5
+650,64,Female,Germany,4,Destination2,6,161,Economy,Online,3.2
+651,38,Female,Uruguay,0,Destination3,6,1869,Economy,Online,5.0
+652,52,Female,Sweden,1,Destination4,6,1500,Economy,Online,1.1
+653,59,Male,Bermuda,1,Destination2,7,1487,First,Agency,4.9
+654,21,Male,Germany,1,Destination2,8,728,Economy,Online,4.5
+655,39,Female,Saint Barthelemy,0,Destination2,12,1165,Economy,Online,3.8
+656,27,Female,Cook Islands,3,Destination2,10,667,First,Online,5.0
+657,60,Female,American Samoa,2,Destination4,3,1548,Economy,Online,4.8
+658,59,Female,Colombia,3,Destination4,7,551,Business,Online,4.4
+659,66,Female,Mongolia,2,Destination2,8,1641,Economy,Online,1.2
+660,66,Female,Comoros,3,Destination1,5,792,Economy,Online,2.3
+661,23,Male,Armenia,3,Destination1,7,450,Economy,Online,1.7
+662,70,Male,Pakistan,5,Destination4,5,758,Business,Agency,3.6
+663,29,Female,Portugal,2,Destination1,6,-40,First,Online,4.5
+664,32,Female,Guinea,1,Destination3,4,970,First,Online,1.3
+665,67,Male,Canada,2,Destination3,7,527,Business,Online,2.9
+666,31,Male,Yemen,2,Destination1,6,709,Business,Online,4.7
+667,54,Male,Montenegro,1,Destination1,1,1053,Business,Online,4.6
+668,43,Female,Benin,1,Destination1,3,1599,Economy,Online,4.4
+669,50,Female,Azerbaijan,2,Destination4,7,249,Economy,Online,1.4
+670,26,Male,Tajikistan,1,Destination3,2,1412,Business,Online,4.6
+671,41,Male,Malta,3,Destination2,8,638,Economy,Online,3.3
+672,40,Female,Argentina,0,Destination3,5,306,Business,Online,4.5
+673,44,Female,Zambia,1,Destination2,9,891,Economy,Online,2.6
+674,25,Male,Cuba,2,Destination4,7,1444,Economy,Online,1.1
+675,68,Male,Thailand,0,Destination1,8,851,Economy,Online,1.6
+676,56,Female,Hong Kong,1,Destination2,13,621,First,Online,2.3
+677,67,Female,Vietnam,5,Destination3,7,2431,Economy,Online,3.2
+678,33,Male,Canada,5,Destination1,6,396,First,Online,1.7
+679,45,Female,Seychelles,5,Destination4,10,298,Economy,Online,4.0
+680,61,Female,Central African Republic,1,Destination1,7,604,Economy,Agency,3.4
+681,60,Male,Saint Pierre and Miquelon,0,Destination1,2,1182,Economy,Online,2.0
+682,18,Female,Syrian Arab Republic,1,Destination3,5,1872,Business,Online,3.9
+683,55,Female,Reunion,1,Destination1,11,466,Economy,Online,4.7
+684,25,Male,Bermuda,1,Destination4,4,2074,Business,Online,1.2
+685,39,Male,Monaco,1,Destination1,10,520,Business,Online,3.4
+686,70,Female,Chad,2,Destination2,10,986,Economy,Online,1.7
+687,27,Male,Peru,2,Destination1,8,766,Economy,Online,3.6
+688,42,Female,Honduras,5,Destination4,8,575,Business,Online,1.6
+689,23,Female,Slovenia,3,Destination2,9,804,Business,Online,4.3
+690,66,Female,Seychelles,1,Destination2,6,1363,Business,Online,2.7
+691,35,Male,Senegal,4,Destination4,7,466,Economy,Agency,4.9
+692,44,Male,Saint Barthelemy,3,Destination4,7,111,Economy,Online,2.5
+693,46,Male,Tanzania,2,Destination2,8,1262,Economy,Online,4.7
+694,54,Female,Bulgaria,3,Destination3,7,1225,Business,Online,2.4
+695,28,Male,Syrian Arab Republic,2,Destination1,2,298,Economy,Online,3.3
+696,59,Male,Chad,0,Destination1,5,206,Economy,Online,4.8
+697,59,Female,Botswana,1,Destination2,8,873,Economy,Online,4.2
+698,34,Male,Samoa,5,Destination1,4,1133,Economy,Online,2.4
+699,52,Female,Nepal,4,Destination2,8,618,Economy,Agency,1.8
+700,32,Male,Kiribati,3,Destination2,5,1901,Economy,Online,4.1
+701,34,Male,New Caledonia,1,Destination1,7,1140,Business,Online,4.6
+702,55,Male,Russian Federation,3,Destination3,6,1279,Business,Online,3.1
+703,45,Male,Bahrain,1,Destination3,8,422,First,Online,2.7
+704,46,Male,Liechtenstein,2,Destination1,2,759,First,Online,3.2
+705,54,Female,Suriname,1,Destination3,3,744,Business,Online,3.9
+706,64,Male,Saint Vincent and the Grenadines,2,Destination1,11,747,Business,Online,2.6
+707,60,Male,South Georgia and the South Sandwich Islands,1,Destination4,0,924,Business,Online,2.8
+708,68,Female,Sweden,3,Destination2,5,1354,Economy,Agency,2.8
+709,54,Female,Vietnam,6,Destination4,2,1012,Economy,Online,1.7
+710,65,Female,Ecuador,4,Destination2,9,1093,Economy,Online,4.7
+711,67,Male,French Polynesia,2,Destination1,9,804,First,Agency,3.8
+712,28,Male,Costa Rica,3,Destination1,1,652,Economy,Online,3.2
+713,62,Female,French Polynesia,1,Destination1,10,1080,Economy,Online,1.7
+714,64,Male,El Salvador,2,Destination4,6,1646,Economy,Online,2.7
+715,25,Female,Singapore,3,Destination4,7,1751,Economy,Online,3.0
+716,24,Female,Saint Vincent and the Grenadines,5,Destination1,10,1099,Economy,Online,4.2
+717,19,Male,Tuvalu,2,Destination1,4,1146,Economy,Online,2.6
+718,68,Male,Fiji,1,Destination4,6,1107,Economy,Online,4.5
+719,28,Male,Bouvet Island (Bouvetoya),0,Destination2,8,1305,Economy,Online,2.0
+720,50,Female,Malta,2,Destination2,4,1948,Economy,Online,1.5
+721,51,Male,Azerbaijan,0,Destination1,4,1083,Business,Agency,2.0
+722,22,Female,Poland,0,Destination3,9,1220,Economy,Online,3.6
+723,59,Male,Niue,2,Destination4,8,2202,Economy,Online,3.9
+724,39,Female,Japan,3,Destination2,9,1133,Business,Online,2.3
+725,29,Female,Mongolia,3,Destination2,7,367,Business,Online,2.8
+726,69,Female,Cuba,5,Destination4,7,1052,Economy,Agency,1.8
+727,63,Female,Georgia,2,Destination4,11,1788,Economy,Online,3.9
+728,41,Male,Iraq,0,Destination2,7,1639,Economy,Online,2.0
+729,42,Female,Congo,2,Destination4,7,1927,Economy,Online,4.7
+730,30,Female,Andorra,1,Destination2,3,806,Economy,Online,4.7
+731,53,Female,Panama,1,Destination4,4,1020,Economy,Online,4.3
+732,38,Female,Macao,2,Destination1,2,1076,Economy,Online,4.1
+733,26,Female,Tajikistan,3,Destination4,7,1154,Economy,Online,1.7
+734,23,Male,Dominican Republic,1,Destination3,9,459,Economy,Online,4.5
+735,58,Female,Samoa,1,Destination4,7,1195,Economy,Online,1.9
+736,44,Female,Jordan,3,Destination3,7,1701,Economy,Online,1.4
+737,39,Female,Saudi Arabia,0,Destination2,7,601,Business,Online,4.9
+738,64,Female,American Samoa,1,Destination1,8,1499,Economy,Online,4.4
+739,30,Male,Kazakhstan,1,Destination2,6,752,First,Online,3.8
+740,67,Female,Venezuela,0,Destination1,8,249,Business,Online,3.4
+741,22,Male,Ghana,0,Destination2,2,783,Economy,Online,4.4
+742,19,Female,San Marino,2,Destination2,11,252,Economy,Online,3.8
+743,45,Male,Angola,3,Destination4,9,989,Business,Agency,4.4
+744,29,Female,Kuwait,5,Destination4,2,779,Business,Online,1.9
+745,21,Female,Martinique,3,Destination1,8,164,Economy,Agency,3.5
+746,46,Male,Sierra Leone,2,Destination2,12,831,Business,Online,4.8
+747,62,Male,Bahamas,1,Destination2,4,1419,Economy,Online,3.9
+748,30,Male,Central African Republic,3,Destination1,5,980,Economy,Online,2.7
+749,44,Female,Northern Mariana Islands,2,Destination1,4,1015,Business,Agency,2.6
+750,47,Female,Benin,2,Destination1,2,1168,Economy,Online,1.5
+751,52,Male,Korea,1,Destination3,4,1055,Economy,Agency,3.4
+752,56,Female,Lao People's Democratic Republic,0,Destination2,5,903,Economy,Agency,4.1
+753,65,Female,China,0,Destination4,12,964,First,Online,2.0
+754,69,Male,Jamaica,3,Destination3,5,568,Business,Online,2.0
+755,70,Female,Australia,0,Destination1,6,1596,Economy,Agency,3.7
+756,22,Female,Namibia,3,Destination2,10,488,Business,Online,4.7
+757,41,Female,Montenegro,3,Destination3,0,486,Economy,Online,4.0
+758,38,Male,Fiji,3,Destination2,0,1754,First,Online,4.2
+759,19,Female,Argentina,2,Destination4,10,626,Economy,Online,1.4
+760,51,Female,North Macedonia,3,Destination1,2,1119,First,Online,4.5
+761,70,Female,Romania,1,Destination2,12,847,Economy,Online,1.7
+762,42,Female,Guam,1,Destination3,9,918,Economy,Agency,2.5
+763,66,Female,Jersey,3,Destination4,7,638,First,Agency,1.2
+764,37,Male,Rwanda,3,Destination2,3,1110,First,Online,2.3
+765,51,Female,Japan,5,Destination4,10,2028,Business,Online,2.4
+766,57,Male,Australia,1,Destination2,9,1301,Economy,Online,1.9
+767,32,Female,United States of America,1,Destination2,2,1175,Economy,Online,4.8
+768,26,Female,Saint Helena,1,Destination4,0,1012,Economy,Online,3.1
+769,49,Female,Lesotho,4,Destination2,10,478,Business,Online,1.2
+770,39,Male,Timor-Leste,0,Destination2,5,1227,Economy,Online,3.9
+771,59,Female,Equatorial Guinea,0,Destination2,5,1198,Economy,Agency,4.1
+772,19,Female,Italy,1,Destination2,8,1102,Economy,Online,4.1
+773,38,Male,Germany,7,Destination2,6,290,Economy,Online,1.7
+774,18,Female,Thailand,1,Destination2,9,1834,Business,Online,4.4
+775,53,Male,Montserrat,2,Destination3,1,819,Economy,Online,2.5
+776,60,Male,Cocos (Keeling) Islands,0,Destination3,8,1397,Economy,Online,5.0
+777,37,Male,Norway,0,Destination4,7,861,Economy,Agency,3.2
+778,51,Male,Djibouti,1,Destination3,2,107,Business,Online,3.3
+779,35,Female,Seychelles,2,Destination4,2,1562,Economy,Online,2.3
+780,52,Female,Dominica,2,Destination2,6,1402,Economy,Online,1.4
+781,21,Female,Guinea,2,Destination4,8,225,Economy,Online,1.0
+782,49,Female,Wallis and Futuna,2,Destination4,6,788,Economy,Online,3.7
+783,60,Female,Iceland,5,Destination1,9,583,First,Online,4.7
+784,67,Female,Cape Verde,2,Destination1,5,444,First,Online,1.4
+785,18,Female,Marshall Islands,4,Destination4,9,110,Economy,Agency,4.2
+786,40,Female,Azerbaijan,2,Destination3,0,558,Economy,Online,1.5
+787,59,Male,Botswana,1,Destination4,10,810,Economy,Online,4.3
+788,33,Male,South Africa,2,Destination1,5,775,Economy,Online,4.3
+789,50,Male,Mayotte,1,Destination3,5,1119,Economy,Agency,1.1
+790,63,Female,Cocos (Keeling) Islands,1,Destination3,10,1548,Business,Online,4.8
+791,41,Male,Antarctica (the territory South of 60 deg S),2,Destination1,6,1218,Business,Online,2.8
+792,62,Female,Micronesia,0,Destination3,9,1013,Economy,Online,1.2
+793,47,Female,Bolivia,3,Destination3,7,326,Economy,Online,2.0
+794,55,Female,New Caledonia,3,Destination2,1,1276,Economy,Online,2.8
+795,48,Male,British Indian Ocean Territory (Chagos Archipelago),0,Destination1,11,1349,Business,Online,4.0
+796,20,Male,Denmark,3,Destination2,1,154,Economy,Online,1.4
+797,43,Male,Niger,1,Destination1,3,791,Economy,Agency,1.6
+798,44,Male,Svalbard & Jan Mayen Islands,1,Destination1,8,1490,Business,Online,3.0
+799,59,Male,Macao,3,Destination4,9,1091,Economy,Online,3.7
+800,53,Male,New Zealand,2,Destination1,4,1425,Economy,Online,4.1
+801,68,Female,Belgium,1,Destination4,7,776,Business,Online,2.6
+802,65,Female,United States Virgin Islands,3,Destination4,5,238,Economy,Online,4.2
+803,22,Female,Tonga,3,Destination4,9,1098,Economy,Online,1.4
+804,37,Female,Azerbaijan,2,Destination2,6,1086,Economy,Online,1.6
+805,68,Male,Korea,1,Destination3,3,1156,Business,Online,1.8
+806,64,Male,Guernsey,6,Destination1,6,1035,Economy,Agency,3.8
+807,30,Male,Korea,1,Destination1,4,480,Business,Online,4.2
+808,60,Male,El Salvador,1,Destination4,5,1074,Business,Online,3.8
+809,47,Female,Lao People's Democratic Republic,4,Destination4,8,839,First,Agency,4.8
+810,40,Male,Ukraine,2,Destination3,11,1038,Economy,Online,2.4
+811,39,Male,Germany,1,Destination3,14,815,Economy,Online,4.8
+812,57,Male,Israel,2,Destination3,3,740,Economy,Online,3.9
+813,55,Female,Netherlands Antilles,2,Destination3,4,1346,Economy,Online,4.1
+814,63,Female,Libyan Arab Jamahiriya,2,Destination4,7,319,First,Online,4.9
+815,47,Female,Dominica,5,Destination2,6,514,Economy,Online,4.8
+816,38,Female,Belize,1,Destination3,4,1472,Economy,Online,3.2
+817,23,Female,Andorra,4,Destination2,8,954,Economy,Online,1.3
+818,47,Male,Aruba,6,Destination2,6,822,Business,Agency,4.1
+819,20,Female,Kuwait,1,Destination4,7,753,First,Online,4.5
+820,34,Male,Swaziland,5,Destination4,2,759,Business,Online,3.5
+821,52,Male,Turkmenistan,0,Destination2,4,587,Economy,Online,5.0
+822,63,Female,Gabon,2,Destination2,5,624,Business,Online,3.0
+823,64,Male,Honduras,1,Destination4,7,1415,Economy,Online,4.2
+824,57,Male,Bhutan,4,Destination1,6,830,Economy,Online,2.3
+825,58,Male,Palestinian Territory,3,Destination4,7,1055,Economy,Online,1.6
+826,46,Female,Iran,1,Destination3,8,712,Business,Online,3.8
+827,27,Male,Haiti,6,Destination3,8,1696,Economy,Online,4.3
+828,28,Female,Denmark,1,Destination3,2,674,Economy,Online,3.5
+829,60,Male,United Arab Emirates,1,Destination2,6,826,Economy,Online,1.2
+830,47,Female,Guam,1,Destination2,-1,1183,Business,Online,1.9
+831,29,Female,Jamaica,4,Destination4,2,-586,Economy,Online,1.1
+832,31,Male,Burundi,2,Destination4,10,877,Business,Agency,3.8
+833,62,Male,Estonia,1,Destination2,5,747,Economy,Online,2.8
+834,26,Male,Honduras,0,Destination2,11,520,Economy,Online,3.0
+835,32,Male,Botswana,2,Destination1,8,294,Business,Online,3.0
+836,61,Female,Guam,3,Destination4,6,1100,Economy,Online,1.6
+837,45,Male,Cuba,2,Destination3,11,889,Economy,Online,3.7
+838,24,Female,Tonga,6,Destination1,6,641,Economy,Online,3.8
+839,18,Male,Barbados,2,Destination1,7,255,Business,Agency,1.9
+840,60,Female,Egypt,3,Destination2,7,410,Economy,Online,3.1
+841,36,Male,South Georgia and the South Sandwich Islands,4,Destination4,9,1079,Business,Online,4.2
+842,50,Male,Palestinian Territory,1,Destination4,7,1224,Economy,Online,1.8
+843,32,Male,Kenya,5,Destination3,7,1574,Economy,Agency,2.6
+844,21,Male,Nepal,3,Destination1,6,1833,Economy,Online,1.1
+845,49,Male,Netherlands Antilles,1,Destination2,8,738,Business,Agency,2.6
+846,45,Female,Indonesia,2,Destination3,4,1339,Economy,Online,1.8
+847,65,Male,Tunisia,0,Destination1,3,1271,Economy,Online,2.9
+848,36,Male,Cameroon,0,Destination1,8,1235,Economy,Online,4.3
+849,37,Female,Saint Vincent and the Grenadines,1,Destination1,5,1303,Business,Online,2.1
+850,32,Male,Cocos (Keeling) Islands,2,Destination1,8,872,Economy,Online,1.4
+851,65,Male,Libyan Arab Jamahiriya,3,Destination4,3,1015,Economy,Online,4.8
+852,32,Female,Chile,3,Destination1,5,869,Economy,Online,1.1
+853,28,Male,Jersey,0,Destination2,7,582,Economy,Online,3.8
+854,38,Female,Nicaragua,3,Destination1,8,1327,Business,Online,2.0
+855,68,Male,Antigua and Barbuda,2,Destination1,9,69,Business,Online,3.4
+856,19,Male,New Caledonia,1,Destination1,8,487,Economy,Online,1.5
+857,69,Female,India,2,Destination4,-2,90,Economy,Online,4.4
+858,67,Female,Germany,3,Destination4,7,492,Economy,Online,2.0
+859,52,Female,Palestinian Territory,2,Destination2,0,1797,Economy,Online,1.4
+860,53,Male,Canada,2,Destination3,6,885,Economy,Agency,4.7
+861,19,Female,Luxembourg,4,Destination3,6,757,Economy,Agency,1.1
+862,24,Female,Guinea-Bissau,0,Destination3,2,595,Economy,Online,3.3
+863,19,Female,Iraq,1,Destination3,7,558,Economy,Online,5.0
+864,43,Female,Falkland Islands (Malvinas),1,Destination1,11,1081,Economy,Online,3.5
+865,19,Male,Micronesia,2,Destination3,6,1573,Economy,Online,4.9
+866,61,Female,Cambodia,2,Destination2,6,1386,Economy,Online,4.3
+867,64,Male,Belgium,1,Destination3,9,1176,Economy,Agency,3.9
+868,56,Male,Cote d'Ivoire,0,Destination4,10,1361,Business,Online,3.8
+869,54,Female,Brunei Darussalam,8,Destination2,5,1160,Economy,Online,2.0
+870,57,Male,Jamaica,1,Destination1,0,1477,Economy,Online,3.4
+871,47,Female,Ghana,4,Destination4,6,1226,First,Online,3.6
+872,49,Female,Wallis and Futuna,1,Destination2,9,412,Economy,Agency,1.2
+873,23,Female,Cyprus,3,Destination2,11,355,First,Online,4.8
+874,41,Female,Nauru,4,Destination1,4,1105,Economy,Agency,1.8
+875,26,Female,Congo,5,Destination1,3,-64,Economy,Online,3.9
+876,22,Male,Micronesia,0,Destination4,5,1528,Economy,Agency,1.9
+877,65,Female,France,3,Destination3,5,1527,Economy,Online,2.5
+878,62,Male,Mayotte,2,Destination3,10,559,Economy,Online,3.5
+879,28,Female,Sweden,3,Destination1,2,525,Economy,Online,2.2
+880,56,Female,Cote d'Ivoire,2,Destination2,4,1393,Economy,Online,4.1
+881,38,Female,Liberia,0,Destination3,2,1587,Economy,Agency,3.7
+882,69,Male,Kuwait,3,Destination3,8,1182,Economy,Online,1.5
+883,52,Male,Falkland Islands (Malvinas),4,Destination3,7,1469,Economy,Online,1.6
+884,61,Female,Nicaragua,3,Destination4,8,837,Economy,Online,4.7
+885,53,Female,Faroe Islands,3,Destination3,9,848,Economy,Online,2.0
+886,38,Female,Dominican Republic,1,Destination2,6,1013,Economy,Online,2.0
+887,66,Female,Turks and Caicos Islands,1,Destination1,12,1398,Economy,Online,1.9
+888,47,Male,Cape Verde,2,Destination2,4,677,Economy,Online,2.3
+889,56,Female,Serbia,2,Destination4,7,1373,Economy,Online,3.6
+890,33,Male,Brunei Darussalam,0,Destination4,8,1633,Economy,Online,4.4
+891,47,Male,Guadeloupe,3,Destination2,6,1080,Economy,Online,4.2
+892,64,Male,Greenland,1,Destination3,7,1562,Business,Online,3.5
+893,63,Female,Costa Rica,2,Destination3,7,1480,Business,Online,2.3
+894,34,Male,Romania,3,Destination2,11,528,Economy,Online,4.0
+895,52,Female,San Marino,2,Destination4,5,210,Economy,Online,2.7
+896,63,Male,Saint Kitts and Nevis,3,Destination4,8,854,Economy,Online,2.2
+897,39,Female,Liechtenstein,2,Destination1,6,814,Business,Online,2.7
+898,70,Male,Saint Lucia,1,Destination3,9,1134,Economy,Online,1.1
+899,21,Female,Saint Vincent and the Grenadines,0,Destination2,6,1209,Business,Online,1.0
+900,70,Female,Maldives,1,Destination4,3,615,Economy,Agency,3.1
+901,58,Female,Chile,4,Destination1,5,518,Economy,Online,1.6
+902,38,Male,Liberia,5,Destination3,5,1375,Economy,Online,3.3
+903,41,Male,Bulgaria,1,Destination1,7,741,Economy,Agency,3.0
+904,51,Female,Cuba,2,Destination2,5,934,Economy,Agency,4.8
+905,34,Female,El Salvador,4,Destination1,3,1123,Economy,Agency,3.0
+906,60,Male,Congo,0,Destination1,10,812,Economy,Agency,1.4
+907,18,Male,Bangladesh,5,Destination2,3,1488,Economy,Online,4.2
+908,56,Female,Holy See (Vatican City State),2,Destination2,8,1138,Economy,Online,4.0
+909,26,Female,Grenada,2,Destination1,9,1142,Economy,Online,2.4
+910,45,Female,Iraq,2,Destination3,9,910,Economy,Agency,3.1
+911,32,Female,Sri Lanka,3,Destination4,8,336,Economy,Online,4.4
+912,38,Female,Niger,2,Destination1,7,1794,Economy,Agency,2.6
+913,38,Male,Saudi Arabia,4,Destination3,10,897,Economy,Online,1.4
+914,53,Male,South Georgia and the South Sandwich Islands,3,Destination3,2,797,Economy,Online,3.9
+915,39,Female,Mayotte,3,Destination3,6,1572,First,Agency,1.2
+916,40,Male,India,3,Destination1,9,145,Economy,Online,2.4
+917,27,Male,Isle of Man,1,Destination1,2,933,Economy,Agency,1.5
+918,58,Female,Namibia,6,Destination3,7,386,Economy,Online,1.4
+919,29,Male,Heard Island and McDonald Islands,0,Destination3,10,1437,Economy,Online,1.6
+920,65,Male,Northern Mariana Islands,1,Destination1,9,1018,Business,Online,2.1
+921,42,Female,Jersey,2,Destination3,10,1226,Business,Online,2.7
+922,43,Female,Norfolk Island,2,Destination2,5,1822,Economy,Online,3.8
+923,33,Female,Monaco,2,Destination2,8,709,Economy,Online,1.0
+924,58,Male,Lebanon,1,Destination2,9,670,Economy,Online,3.4
+925,18,Female,Seychelles,5,Destination2,0,1319,Economy,Online,4.6
+926,56,Female,United States Virgin Islands,2,Destination3,5,1591,Economy,Online,4.5
+927,50,Male,Togo,3,Destination1,5,1097,Business,Online,2.4
+928,68,Male,Sierra Leone,2,Destination1,7,1184,Economy,Online,4.1
+929,32,Female,Kenya,3,Destination3,5,1056,Economy,Online,3.0
+930,50,Male,United States of America,2,Destination1,5,505,Economy,Online,2.3
+931,68,Male,Senegal,0,Destination2,6,651,Economy,Online,1.3
+932,43,Female,French Southern Territories,0,Destination2,8,1110,Economy,Online,4.7
+933,43,Male,Kiribati,0,Destination3,6,1148,Business,Online,3.1
+934,34,Male,Jamaica,3,Destination2,6,1222,Business,Online,1.9
+935,68,Female,Uruguay,1,Destination1,5,759,Business,Agency,3.7
+936,36,Male,Mongolia,1,Destination4,9,1543,Economy,Online,4.1
+937,55,Female,Italy,0,Destination3,4,1038,Economy,Online,2.3
+938,44,Female,Dominican Republic,2,Destination4,6,663,Economy,Agency,2.4
+939,29,Female,Madagascar,2,Destination2,7,385,Economy,Online,3.3
+940,70,Female,Faroe Islands,2,Destination4,8,1520,Economy,Online,1.5
+941,26,Male,Uzbekistan,1,Destination1,11,1086,Economy,Online,5.0
+942,21,Male,Rwanda,2,Destination1,5,1574,Business,Online,3.1
+943,61,Female,Mali,2,Destination3,8,1355,Economy,Online,2.9
+944,43,Male,India,2,Destination2,6,1370,Business,Online,2.0
+945,70,Male,Korea,0,Destination3,6,1125,Business,Online,3.7
+946,36,Female,Barbados,4,Destination3,9,411,Business,Online,5.0
+947,21,Female,Cook Islands,2,Destination3,7,904,Business,Online,4.5
+948,35,Female,Sudan,1,Destination4,8,2076,Economy,Online,1.8
+949,32,Male,Belarus,3,Destination4,2,391,Business,Online,4.8
+950,69,Female,Micronesia,2,Destination1,2,1469,Economy,Online,2.4
+951,21,Male,Croatia,4,Destination2,4,1039,Economy,Online,3.2
+952,27,Male,Lao People's Democratic Republic,2,Destination1,6,1070,Economy,Agency,3.5
+953,38,Female,Netherlands,2,Destination3,7,1758,Economy,Online,4.4
+954,46,Female,Kiribati,3,Destination1,10,519,Economy,Online,2.4
+955,20,Female,Western Sahara,2,Destination1,4,878,Economy,Agency,1.9
+956,48,Female,Qatar,3,Destination4,6,1285,Business,Online,1.7
+957,65,Female,El Salvador,3,Destination4,11,1094,Business,Online,1.8
+958,65,Male,American Samoa,8,Destination4,6,996,Business,Online,4.8
+959,39,Male,Chad,4,Destination1,6,1020,Economy,Online,3.9
+960,61,Female,Indonesia,2,Destination1,7,1649,Economy,Online,1.9
+961,49,Male,Tokelau,2,Destination4,6,869,First,Online,4.0
+962,22,Female,Cyprus,5,Destination3,7,1413,Economy,Online,2.9
+963,42,Male,Oman,1,Destination1,6,1333,Business,Online,2.8
+964,36,Female,New Zealand,3,Destination4,5,539,Economy,Agency,2.2
+965,38,Male,Sierra Leone,0,Destination3,12,571,Economy,Agency,1.6
+966,20,Male,Marshall Islands,5,Destination4,3,1590,First,Online,1.3
+967,30,Male,Isle of Man,4,Destination4,15,394,Economy,Online,2.2
+968,61,Female,Moldova,1,Destination1,5,1868,Business,Agency,2.4
+969,48,Female,Tokelau,1,Destination4,7,736,Economy,Online,1.1
+970,57,Female,Montenegro,4,Destination3,5,394,Economy,Online,4.0
+971,51,Male,Maldives,1,Destination3,4,1231,Economy,Online,1.3
+972,40,Female,Saint Kitts and Nevis,1,Destination4,10,1011,Economy,Online,3.2
+973,21,Male,Iraq,2,Destination1,10,1404,Economy,Agency,3.0
+974,59,Female,Poland,3,Destination4,8,668,Economy,Agency,2.9
+975,29,Female,Sweden,1,Destination4,4,1213,First,Online,1.7
+976,33,Male,Anguilla,1,Destination2,8,827,First,Agency,2.0
+977,40,Male,Brazil,3,Destination1,9,1717,Economy,Online,2.5
+978,40,Male,Montserrat,1,Destination1,8,1523,Economy,Online,1.6
+979,52,Female,Bangladesh,4,Destination1,7,416,First,Online,2.0
+980,45,Male,Somalia,3,Destination1,6,-311,Business,Agency,2.8
+981,44,Male,Cote d'Ivoire,1,Destination3,11,730,Economy,Online,2.0
+982,62,Female,Sweden,1,Destination1,3,1103,Economy,Online,2.8
+983,37,Female,Guam,1,Destination2,11,1125,Economy,Online,4.7
+984,28,Female,Myanmar,2,Destination3,10,742,Economy,Online,4.9
+985,50,Male,Honduras,2,Destination4,5,1215,Economy,Online,2.2
+986,65,Female,Holy See (Vatican City State),2,Destination2,9,380,First,Online,3.1
+987,58,Female,Tonga,3,Destination3,4,675,First,Online,1.2
+988,46,Female,Japan,2,Destination2,8,1439,Economy,Agency,2.2
+989,51,Male,Vietnam,1,Destination1,0,1534,Economy,Online,3.0
+990,52,Female,Guam,1,Destination1,4,1556,Economy,Online,2.9
+991,59,Male,Lithuania,0,Destination2,2,108,Economy,Online,1.6
+992,53,Male,Guam,3,Destination4,10,1567,Economy,Agency,1.5
+993,62,Male,Lithuania,2,Destination1,3,2103,Economy,Online,4.6
+994,20,Male,Guyana,0,Destination4,2,898,Economy,Online,2.5
+995,34,Female,Cambodia,3,Destination2,10,904,First,Online,3.9
+996,29,Female,Paraguay,3,Destination2,1,1752,Business,Online,1.6
+997,18,Male,Finland,2,Destination4,7,856,Economy,Online,2.0
+998,48,Female,Australia,0,Destination2,6,50,Business,Online,2.7
+999,35,Male,Bolivia,2,Destination1,10,1069,Economy,Online,1.1
+1000,29,Female,Bhutan,2,Destination4,0,980,Economy,Online,3.3
